@@ -1,0 +1,1411 @@
+FactID,Country,Category,Fact
+FACT-0001,US,Commonality,"The ""thumbs up"" gesture is a common sign of approval or ""OK"" across the United States."
+FACT-0002,UK,Quantitative,The standard minimum number of paid vacation days for full-time workers in the UK is 28 days.
+FACT-0003,China,Superlative,"Confucius is the most influential philosopher in Chinese history, shaping the nation's social and moral fabric."
+FACT-0004,Iran,Feature,"The Tar is a long-necked, waist-shaped string instrument central to traditional Persian classical music."
+FACT-0005,US,Action,"In the US, it is customary to tip between 15% and 20% at sit-down restaurants for good service."
+FACT-0006,UK,Selection,"The River Thames is the primary waterway in the UK, famously flowing through the heart of London."
+FACT-0007,China,Commonality,"Noodles are a common staple food in Northern China, where wheat production is more prevalent than rice."
+FACT-0008,Iran,Quantitative,"Friday is the official weekly holiday in Iran, with the work week typically running from Saturday to Wednesday."
+FACT-0009,US,Superlative,"Starbucks is the most widespread coffeehouse chain in the US, originating from Seattle's Pike Place Market."
+FACT-0010,UK,Feature,"Haggis, a savory pudding containing sheep's pluck, is the national dish of Scotland and a UK cultural icon."
+FACT-0011,China,Action,"In China, people eat Zongzi (sticky rice dumplings) to celebrate the Dragon Boat Festival."
+FACT-0012,Iran,Selection,"The city of Yazd is world-famous for its ancient ""Badgirs"" (windcatchers) used for natural ventilation."
+FACT-0013,US,Commonality,"Orange juice is a staple morning beverage in many American households, often paired with breakfast."
+FACT-0014,UK,Quantitative,The standard full-time work week in the UK is approximately 37.5 to 40 hours.
+FACT-0015,China,Superlative,The Yangtze River is the longest river in Asia and plays a vital role in China's economy and history.
+FACT-0016,Iran,Feature,"Persian architecture is known for its use of geometric patterns and the ""Iwan,"" a vaulted hall opening into a courtyard."
+FACT-0017,US,Action,"During high school and college graduations in the US, students wear a traditional 'Cap and Gown'."
+FACT-0018,UK,Selection,Liverpool is the city in the UK most famous for being the birthplace of The Beatles.
+FACT-0019,China,Commonality,"Calligraphy is a highly respected hobby and art form in China, focusing on the beauty of written characters."
+FACT-0020,Iran,Quantitative,"Military service is mandatory for men in Iran, typically lasting 24 months."
+FACT-0021,US,Superlative,"Thanksgiving is widely considered the most popular national holiday in the US, centered on family and food."
+FACT-0022,UK,Feature,"The Sunday Roast, featuring roasted meat and potatoes, is a quintessential weekly meal for many families in the UK."
+FACT-0023,China,Action,"In China, setting off firecrackers is a traditional way to ward off evil spirits during the Lunar New Year."
+FACT-0024,Iran,Selection,"Gilan province is famous for its humid climate, lush forests, and being the center of tea production in Iran."
+FACT-0025,France,Commonality,"The baguette is a staple of daily French life, with over 6 billion sold annually in France."
+FACT-0026,Germany,Quantitative,Germany is famous for its 'dual education system' where students combine vocational training with classroom study.
+FACT-0027,Japan,Superlative,Mount Fuji is the highest mountain in Japan and a sacred site for pilgrimage.
+FACT-0028,India,Feature,"The Saree is a traditional draped garment worn by women in India, reflecting regional styles and fabrics."
+FACT-0029,Canada,Action,"In Canada, it is extremely common for people to apologize ('Sorry') even when they are not at fault."
+FACT-0030,Australia,Selection,The Great Barrier Reef off the coast of Queensland is the world's largest coral reef system.
+FACT-0031,France,Superlative,The Louvre in Paris is the world's most-visited museum and a monument to French history.
+FACT-0032,Germany,Feature,Lederhosen are traditional leather breeches associated specifically with Bavarian culture in Germany.
+FACT-0033,Japan,Action,"In Japan, it is customary to bow when greeting someone, with the angle of the bow showing the level of respect."
+FACT-0034,India,Commonality,Drinking Masala Chai (spiced tea) is a universal daily social ritual across all of India.
+FACT-0035,Canada,Superlative,Niagara Falls is the most famous natural landmark shared between the Canadian province of Ontario and the US.
+FACT-0036,Australia,Quantitative,Voting in federal and state elections is compulsory for all adult citizens in Australia.
+FACT-0037,France,Selection,The Bordeaux region is globally recognized for producing some of the world's most prestigious wines.
+FACT-0038,Germany,Action,"In Germany, Sunday is a 'Ruhetag' (quiet day) where most shops are closed by law to allow for rest."
+FACT-0039,Japan,Feature,"The Kimono is the traditional Japanese national garment, characterized by T-shaped, straight-lined robes."
+FACT-0040,India,Selection,The Taj Mahal in Agra is a world-renowned ivory-white marble mausoleum and symbol of Indian heritage.
+FACT-0041,Canada,Feature,"Poutine, a dish of fries topped with cheese curds and gravy, originated in Quebec and is a Canadian staple."
+FACT-0042,Australia,Commonality,"The ""Barbie"" (barbecue) is a central social event in Australian culture, often held in public parks."
+FACT-0043,France,Action,"In France, it is common to say 'Bonjour' (Good day) to the shopkeeper upon entering any small business."
+FACT-0044,Germany,Superlative,"Oktoberfest in Munich is the world's largest Volkfest, attracting millions of visitors every year."
+FACT-0045,Japan,Commonality,"Vending machines are ubiquitous in Japan, selling everything from hot canned coffee to umbrellas."
+FACT-0046,India,Quantitative,"India has 22 officially recognized languages, with Hindi and English being the primary official languages."
+FACT-0047,Canada,Selection,The Rocky Mountains in Alberta and British Columbia are a major hub for winter sports and tourism.
+FACT-0048,Australia,Feature,The Didgeridoo is a unique wind instrument developed by Indigenous Australians in Northern Australia.
+FACT-0049,France,Quantitative,"The legal work week in France is 35 hours, after which employees must be paid overtime."
+FACT-0050,Germany,Selection,The Black Forest (Schwarzwald) is a mountainous region in SW Germany famous for cuckoo clocks.
+FACT-0051,Japan,Action,"In Japan, it is customary to say 'Itadakimasu' before starting a meal to express gratitude for the food."
+FACT-0052,India,Commonality,"Cricket is the most popular sport in India, often drawing massive crowds and causing city-wide shutdowns during major matches."
+FACT-0053,Canada,Feature,"The Maple Leaf is the central symbol of Canada, appearing on the national flag and representing the country's vast nature."
+FACT-0054,Australia,Selection,"Melbourne is widely considered the cultural and coffee capital of Australia, known for its extensive laneway cafe culture."
+FACT-0055,US,Quantitative,"The US is divided into 50 states, each with its own state government and the power to regulate local laws."
+FACT-0056,UK,Action,"In the UK, 'queueing' is a strictly followed social norm; jumping a line is considered extremely rude."
+FACT-0057,China,Feature,The Great Wall of China is a series of fortifications that were built across the historical northern borders of ancient Chinese states.
+FACT-0058,Iran,Superlative,The Treasury of National Jewels in Tehran houses one of the world's most expensive and famous jewelry collections.
+FACT-0059,France,Feature,Champagne can only legally be called by that name if it is produced in the Champagne region of France.
+FACT-0060,Germany,Commonality,The 'Pfand' system in Germany encourages recycling by adding a small deposit to bottled drinks that is returned when the bottle is recycled.
+FACT-0061,Japan,Selection,"Kyoto is the city in Japan most famous for its well-preserved traditional temples, shrines, and geisha districts."
+FACT-0062,India,Action,"In India, many people remove their shoes before entering a temple or someone's home as a sign of purity and respect."
+FACT-0063,Canada,Quantitative,"Canada has two official languages: English and French, with the majority of French speakers residing in Quebec."
+FACT-0064,Australia,Superlative,"The Sydney Opera House is the most recognizable landmark in Australia, famous for its unique expressionist architecture."
+FACT-0065,US,Selection,"Silicon Valley in California is the global center for high technology, innovation, and social media."
+FACT-0066,UK,Commonality,"Afternoon tea, typically served with scones, clotted cream, and jam, is a quintessential British social tradition."
+FACT-0067,China,Quantitative,"The standard retirement age in China is currently 60 for men and 50 or 55 for women, depending on the job type."
+FACT-0068,Iran,Action,"In Iran, the 'Taarof' system is a complex etiquette of politeness where people may refuse an offer multiple times before accepting."
+FACT-0069,France,Selection,"The French Riviera, or Côte d'Azur, is a Mediterranean coastline famous for the Cannes Film Festival and luxury resorts."
+FACT-0070,Germany,Feature,"The Autobahn is the federal highway system in Germany, famous for having no federally mandated speed limit on certain sections."
+FACT-0071,Japan,Superlative,"The Shinkansen (Bullet Train) is Japan's high-speed rail network, famous for its incredible punctuality and safety record."
+FACT-0072,India,Feature,"The Lotus Flower is the national flower of India, symbolizing spirituality, fruitfulness, and illumination."
+FACT-0073,Canada,Action,"In Canada, it is a common winter tradition to go 'skating on the canal,' particularly on the Rideau Canal in Ottawa."
+FACT-0074,Australia,Feature,The Kangaroo is the national animal of Australia and appears on the country’s coat of arms alongside the Emu.
+FACT-0075,US,Superlative,"The Super Bowl is the most-watched annual sporting event in the US, famous for its high-budget commercials and halftime shows."
+FACT-0076,UK,Feature,The Big Ben is the nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster in London.
+FACT-0077,China,Commonality,Tai Chi is a common morning exercise practiced by people of all ages in public parks across China.
+FACT-0078,Iran,Feature,"Persian Carpets are world-renowned for their intricate designs, high knot density, and use of natural dyes."
+FACT-0079,France,Action,"In France, dinner is typically eaten later than in the US, often starting around 8:00 PM."
+FACT-0080,Germany,Quantitative,"The legal drinking age for beer and wine in Germany is 16, while for spirits it is 18."
+FACT-0081,Japan,Commonality,"Convenience stores in Japan, known as 'Konbini,' are open 24/7 and offer high-quality fresh meals and banking services."
+FACT-0082,India,Superlative,The Ganges (Ganga) is considered the holiest river in India and is central to Hindu religious purification rituals.
+FACT-0083,Canada,Selection,The Calgary Stampede is a massive annual rodeo and festival in Alberta that celebrates Canada's western heritage.
+FACT-0084,Australia,Action,"In Australia, it is common to shorten words as a sign of friendliness, such as 'Arvo' for afternoon or 'Brekkie' for breakfast."
+FACT-0085,US,Commonality,High school American Football games on Friday nights are a major cultural staple in small towns across the US.
+FACT-0086,UK,Selection,The Cotswolds is a region in central England known for its rolling hills and quintessential honey-colored stone villages.
+FACT-0087,China,Superlative,The Giant Panda is considered a national treasure in China and is a global symbol of wildlife conservation.
+FACT-0088,Iran,Quantitative,The Iranian calendar is a solar calendar beginning on the spring equinox (Nowruz).
+FACT-0089,France,Feature,The Eiffel Tower was originally intended to be a temporary structure for the 1889 World's Fair.
+FACT-0090,Germany,Action,"In Germany, it is traditional for children to receive a 'Schultüte' (a large cone filled with sweets) on their first day of school."
+FACT-0091,Japan,Feature,"The Sakura (Cherry Blossom) is the unofficial national flower of Japan, celebrated annually with 'Hanami' (flower viewing) parties."
+FACT-0092,India,Selection,"Bollywood, based in Mumbai, is the largest film industry in India and produces the highest number of films globally."
+FACT-0093,Canada,Commonality,"Maple syrup production is a major cultural industry in Canada, particularly in the province of Quebec."
+FACT-0094,Australia,Quantitative,Australia is the only country in the world that is also an entire continent.
+FACT-0095,US,Action,"On the Fourth of July, Americans celebrate Independence Day with fireworks, parades, and backyard barbecues."
+FACT-0096,UK,Superlative,The British Museum in London was the first public national museum in the world.
+FACT-0097,China,Selection,The Silk Road was an ancient network of trade routes that connected China to the Mediterranean for centuries.
+FACT-0098,Iran,Commonality,"Drinking black tea (Chai) is a constant social activity in Iran, usually served with a sugar cube held between the teeth."
+FACT-0099,France,Quantitative,France is the most visited country in the world by international tourists.
+FACT-0100,Germany,Superlative,The Brandenburg Gate in Berlin is a 18th-century neoclassical monument and a symbol of German reunification.
+FACT-0101,US,Feature,The Statue of Liberty was a gift from France to the US and stands as a symbol of freedom and democracy.
+FACT-0102,UK,Action,"In the UK, it is traditional to eat Fish and Chips on Fridays, a custom with roots in religious and working-class history."
+FACT-0103,China,Commonality,The use of chopsticks for eating originated in ancient China and has spread to many other Asian cultures.
+FACT-0104,Iran,Selection,Isfahan is often called 'Nesf-e Jahan' (Half of the World) due to its stunning Islamic architecture and historic bridges.
+FACT-0105,France,Commonality,The 'Apéro' is a social ritual in France where people meet for drinks and light snacks before dinner.
+FACT-0106,Germany,Feature,"The Christmas Market (Weihnachtsmarkt) is a beloved German tradition featuring wooden stalls, mulled wine, and crafts."
+FACT-0107,Japan,Action,"In Japan, it is considered polite to slurps noodles, as it signifies that the meal is being enjoyed."
+FACT-0108,India,Commonality,"The 'Namaste' greeting, with palms pressed together, is the traditional way to show respect when meeting someone in India."
+FACT-0109,Canada,Superlative,The CN Tower in Toronto was once the world's tallest free-standing structure and remains a Canadian icon.
+FACT-0110,Australia,Selection,"The Outback refers to the vast, remote, and arid interior of Australia, which covers the majority of the landmass."
+FACT-0111,US,Quantitative,The US Constitution is the oldest written national constitution still in use today.
+FACT-0112,UK,Feature,"Double-decker buses, especially the red ones in London, are an iconic symbol of British public transport."
+FACT-0113,China,Action,"During the Mid-Autumn Festival in China, families gather to eat Mooncakes while watching the full moon."
+FACT-0114,Iran,Superlative,"Mount Damavand is the highest peak in Iran and the highest volcano in Asia, appearing in many Persian myths."
+FACT-0115,France,Selection,Mont Saint-Michel is a tidal island and abbey in Normandy that is one of France's most popular UNESCO sites.
+FACT-0116,Germany,Commonality,"Hiking (Wandern) is a very common hobby in Germany, supported by an extensive network of marked trails."
+FACT-0117,Japan,Selection,"Akihabara in Tokyo is world-famous as the center of 'Otaku' culture, specializing in electronics, anime, and manga."
+FACT-0118,India,Action,"In India, Holi is a major festival celebrated by throwing colored powders and water to mark the arrival of spring."
+FACT-0119,Canada,Feature,The Totem Pole is a traditional monument carved by Indigenous peoples of the Pacific Northwest Coast of Canada.
+FACT-0120,Australia,Commonality,"Surfing is a deeply ingrained part of the Australian lifestyle, especially in coastal towns along the Gold Coast."
+FACT-0121,US,Selection,"New Orleans is famous for its unique blend of French, African, and American cultures, best seen during Mardi Gras."
+FACT-0122,UK,Quantitative,"The UK consists of four countries: England, Scotland, Wales, and Northern Ireland."
+FACT-0123,China,Feature,The Terracotta Army is a collection of thousands of life-sized clay soldiers buried with the first Emperor of China.
+FACT-0124,Iran,Commonality,"Doogh is a popular savory yogurt-based drink in Iran, often flavored with dried mint."
+FACT-0125,France,Superlative,The Palace of Versailles was the principal royal residence of France from 1682 until the French Revolution.
+FACT-0126,Germany,Selection,Bavaria is the largest state in Germany by land area and is known for its distinct cultural identity and Alps scenery.
+FACT-0127,Japan,Quantitative,"Japan has more than 6,000 islands, though the majority of the population lives on the four largest islands."
+FACT-0128,India,Feature,The Bengal Tiger is the national animal of India and a symbol of the country’s wildlife heritage.
+FACT-0129,Canada,Action,"In Canada, many people participate in 'May Long' (Victoria Day weekend) as the unofficial start of the summer season."
+FACT-0130,Australia,Superlative,Uluru (Ayers Rock) is a massive sandstone monolith in the Northern Territory that is sacred to Indigenous Australians.
+FACT-0131,US,Commonality,Garage sales are a common weekend activity in American suburbs where residents sell used household items.
+FACT-0132,UK,Action,"In the UK, it is traditional to wear a poppy in November to remember those who died in military conflict."
+FACT-0133,China,Superlative,The Forbidden City in Beijing was the former Chinese imperial palace from the Ming dynasty to the end of the Qing dynasty.
+FACT-0134,Iran,Feature,The Persepolis is an ancient UNESCO World Heritage site that served as the ceremonial capital of the Achaemenid Empire.
+FACT-0135,France,Action,"In France, it is common to buy fresh bread daily from a local 'Boulangerie' (bakery)."
+FACT-0136,Germany,Quantitative,Germany has the largest economy in Europe and the fourth-largest in the world by nominal GDP.
+FACT-0137,Japan,Commonality,Public baths (Sento) and hot springs (Onsen) are a major part of Japanese social and health culture.
+FACT-0138,India,Selection,The state of Kerala is known as 'God's Own Country' for its tropical backwaters and eco-tourism.
+FACT-0139,Canada,Feature,"The Royal Canadian Mounted Police (RCMP), or 'Mounties,' are the national police force and a symbol of Canada."
+FACT-0140,Australia,Feature,The Emu is a large flightless bird native to Australia and is the second-largest living bird by height.
+FACT-0141,US,Selection,"Las Vegas is world-famous as the 'Entertainment Capital of the World,' known for its casinos and nightlife."
+FACT-0142,UK,Commonality,"Pub culture is central to social life in the UK, where 'the local' serves as a community gathering spot."
+FACT-0143,China,Quantitative,"China has the world's largest high-speed rail network, covering over 40,000 kilometers."
+FACT-0144,Iran,Action,"During the festival of Chaharshanbe Suri, Iranians jump over small bonfires to symbolize purification for the New Year."
+FACT-0145,France,Feature,The Louvre Pyramid is a large glass and metal pyramid designed by I. M. Pei in the main courtyard of the Louvre.
+FACT-0146,Germany,Selection,The Rhine Valley is a major wine-growing region in Germany famous for its steep vineyards and medieval castles.
+FACT-0147,Japan,Action,"In Japan, many people wear surgical masks in public to prevent the spread of germs or to manage allergies."
+FACT-0148,India,Quantitative,"The Indian railway system is one of the world's largest employers, with over 1.2 million staff."
+FACT-0149,Canada,Commonality,Ice hockey is considered the national winter sport of Canada and is deeply woven into the national identity.
+FACT-0150,Australia,Action,"In Australia, it is customary to greet others with the phrase 'G'day, mate'."
+FACT-0151,US,Superlative,The Grand Canyon in Arizona is one of the world's most famous natural wonders and a symbol of the American West.
+FACT-0152,UK,Feature,Wimbledon is the oldest tennis tournament in the world and is famous for its grass courts and player dress code of all-white.
+FACT-0153,China,Action,"In China, it is customary to offer and receive gifts or business cards with both hands as a sign of respect."
+FACT-0154,Iran,Selection,Kashan is a historic city in Iran renowned for its traditional Persian merchant houses and the production of high-quality rosewater.
+FACT-0155,France,Commonality,The 'Petit Déjeuner' in France is typically a light meal consisting of coffee or hot chocolate and a croissant or tartine.
+FACT-0156,Germany,Quantitative,"The standard legal working hours in Germany are 8 hours per day, and it is rare for employees to stay late."
+FACT-0157,Japan,Feature,"The Torii gate is a traditional Japanese gate most commonly found at the entrance of a Shinto shrine, marking the transition to sacred space."
+FACT-0158,India,Action,"In India, it is traditional for women to apply Henna (Mehendi) designs to their hands and feet before weddings and major festivals."
+FACT-0159,Canada,Commonality,BeaverTails are a popular Canadian fried dough pastry shaped like a beaver's tail and topped with various sweets.
+FACT-0160,Australia,Selection,"The Barossa Valley in South Australia is one of the world's finest wine-producing regions, famous for its Shiraz grapes."
+FACT-0161,US,Action,"In the US, 'Tailgating' involves hosting a social gathering or meal out of the back of a parked vehicle before a sporting event."
+FACT-0162,UK,Commonality,"The 'Full English Breakfast' traditionally includes bacon, eggs, sausages, black pudding, baked beans, and grilled tomatoes."
+FACT-0163,China,Superlative,Shanghai is the largest city in China and serves as a global financial hub and major seaport.
+FACT-0164,Iran,Feature,Gaz is a traditional Persian nougat from Isfahan made with the sap of the Angebin plant and pistachios.
+FACT-0165,France,Action,"In France, it is customary to wait until everyone is served and the host says 'Bon Appétit' before starting to eat."
+FACT-0166,Germany,Feature,The Trabi (Trabant) was the most common vehicle in East Germany and has become a nostalgic symbol of the DDR era.
+FACT-0167,Japan,Commonality,"The 'Kotatsu' is a low wooden table frame covered by a heavy blanket with a heater underneath, used to stay warm in winter."
+FACT-0168,India,Quantitative,"The legal voting age in India is 18, and the country holds the record for the world's largest democratic elections."
+FACT-0169,Canada,Selection,"The town of Churchill, Manitoba, is known as the 'Polar Bear Capital of the World' and is a major site for arctic tourism."
+FACT-0170,Australia,Feature,"The Sydney Harbour Bridge, nicknamed 'The Coathanger,' is the world's largest steel arch bridge."
+FACT-0171,US,Commonality,Yellow school buses are a standardized and iconic method of transporting students to and from primary and secondary schools.
+FACT-0172,UK,Selection,The University of Oxford is the oldest university in the English-speaking world and is composed of 39 semi-autonomous colleges.
+FACT-0173,China,Feature,"The Qipao (or Cheongsam) is a high-necked, close-fitting dress that became a symbol of modern Chinese femininity in the 1920s."
+FACT-0174,Iran,Action,"In Iran, it is common to burn 'Esfand' (wild rue seeds) to ward off the 'evil eye' and bring good luck."
+FACT-0175,France,Superlative,"The Michelin Guide, which awards stars to excellent restaurants, originated in France and remains the most influential culinary rating system."
+FACT-0176,Germany,Selection,The Romantic Road (Romantische Straße) is a famous tourist route through Bavaria and Baden-Württemberg featuring medieval towns.
+FACT-0177,Japan,Action,"In Japan, people usually stand on one side of the escalator (the left in Tokyo, the right in Osaka) to let others pass."
+FACT-0178,India,Commonality,The 'Dabbawala' system in Mumbai is a highly efficient lunchbox delivery service that has been studied by business schools globally.
+FACT-0179,Canada,Quantitative,"The Trans-Canada Highway is one of the world's longest national routes, spanning over 7,800 kilometers across all ten provinces."
+FACT-0180,Australia,Commonality,The 'Aussie Salute' is a humorous term for the flicking of one's hand near the face to ward off bush flies.
+FACT-0181,US,Feature,The Hollywood Sign in Los Angeles is a world-famous landmark and icon of the American film industry.
+FACT-0182,UK,Action,"In the UK, it is common for people to apologize to an object if they accidentally bump into it."
+FACT-0183,China,Selection,"The Potala Palace in Lhasa, Tibet, was the winter residence of the Dalai Lamas and is a masterpiece of Himalayan architecture."
+FACT-0184,Iran,Quantitative,"The literacy rate in Iran has seen a massive increase since 1979, with over 98% of the youth being literate."
+FACT-0185,France,Feature,"The TGV (Train à Grande Vitesse) is France's high-speed rail service, reaching speeds of up to 320 km/h."
+FACT-0186,Germany,Commonality,"Quiet hours (Ruhezeit) are strictly observed in many German apartment buildings, usually from 10 PM to 6 or 7 AM."
+FACT-0187,Japan,Superlative,"Tokyo is the most populous metropolitan area in the world, known for its mix of ultra-modern and traditional culture."
+FACT-0188,India,Feature,"The Peafowl (Peacock) is the national bird of India, representing grace, pride, and beauty in Indian mythology."
+FACT-0189,Canada,Action,"In Canada, it is traditional for families to visit a 'Sugar Bush' in the spring to watch maple syrup being made."
+FACT-0190,Australia,Quantitative,The Australian dollar (AUD) was the world's first currency to be made entirely of polymer (plastic) rather than paper.
+FACT-0191,US,Selection,"The French Quarter in New Orleans is the city's oldest neighborhood, famous for its Spanish-influenced architecture and jazz clubs."
+FACT-0192,UK,Feature,"The London Underground, often called 'The Tube,' was the world's first underground passenger railway, opening in 1863."
+FACT-0193,China,Commonality,Red Envelopes (Hongbao) containing money are traditionally given to children and elders during the Lunar New Year for good luck.
+FACT-0194,Iran,Superlative,The Lut Desert (Dasht-e Lut) is a UNESCO site and has recorded some of the highest surface temperatures on Earth.
+FACT-0195,France,Action,"In France, it is common to buy a selection of cheeses from a 'Fromagerie' to serve as a separate course after the main meal."
+FACT-0196,Germany,Quantitative,"The 'Mittelsand' refers to the backbone of the German economy, consisting of small and medium-sized family-owned businesses."
+FACT-0197,Japan,Feature,The Haiku is a traditional form of Japanese poetry consisting of three lines with a 5-7-5 syllable structure.
+FACT-0198,India,Selection,Varanasi (Benares) is one of the oldest continuously inhabited cities in the world and the spiritual capital of India.
+FACT-0199,Canada,Superlative,"Canada has the longest coastline of any country in the world, bordering the Atlantic, Pacific, and Arctic Oceans."
+FACT-0200,Australia,Action,"In Australia, it is customary for people in rural areas to wave at passing drivers, even if they don't know them."
+FACT-0201,US,Quantitative,The legal age to purchase tobacco products in the US was raised to 21 at the federal level in 2019.
+FACT-0202,UK,Superlative,Stonehenge is a prehistoric monument in England and one of the most famous megalithic structures in the world.
+FACT-0203,China,Action,"In China, drinking hot water is common and believed to be beneficial for health and digestion."
+FACT-0204,Iran,Feature,"The 'Ab-Anbar' is a traditional Persian cistern used to store water in arid regions, often featuring ventilation towers."
+FACT-0205,France,Selection,The Loire Valley is known as the 'Garden of France' and is famous for its abundance of historic chateaux.
+FACT-0206,Germany,Action,"In Germany, it is common to clink glasses and say 'Prost' while making direct eye contact with everyone at the table."
+FACT-0207,Japan,Selection,Nara was the first permanent capital of Japan and is famous for its large wild deer population that roams the parks.
+FACT-0208,India,Feature,"The Kurta is a loose collarless shirt worn by people across South Asia, often paired with pajamas or jeans."
+FACT-0209,Canada,Commonality,The 'Loonie' ($1 coin) and 'Toonie' ($2 coin) are the standard high-value coins used in Canadian currency.
+FACT-0210,Australia,Superlative,"The Great Ocean Road in Victoria is the world's largest war memorial, built by returned soldiers after WWI."
+FACT-0211,US,Action,"In the US, 'Black Friday' is the day following Thanksgiving and is traditionally the busiest shopping day of the year."
+FACT-0212,UK,Commonality,The 'Black Cab' (Hackney Carriage) is a world-famous symbol of London; drivers must pass a rigorous test called 'The Knowledge'.
+FACT-0213,China,Quantitative,"China uses only one time zone (Beijing Time), despite the country being wide enough to geographically cover five."
+FACT-0214,Iran,Selection,"Tabriz is world-famous for its historic bazaar complex, which is one of the oldest and largest covered bazaars in the world."
+FACT-0215,France,Feature,"The Camembert cheese from Normandy is one of France's most iconic dairy products, known for its soft, creamy texture."
+FACT-0216,Germany,Superlative,The Cologne Cathedral (Kölner Dom) is Germany's most visited landmark and a masterpiece of Gothic architecture.
+FACT-0217,Japan,Action,"In Japan, it is common to use 'Furoshiki' (traditional wrapping cloth) to carry goods or wrap gifts."
+FACT-0218,India,Commonality,"Rangoli is an art form where patterns are created on the floor using materials like colored rice, flour, or flower petals."
+FACT-0219,Canada,Feature,The Inuksuk is a stone landmark or cairn used by the Inuit and other peoples of the North American Arctic as a point of reference.
+FACT-0220,Australia,Selection,The Twelve Apostles are a collection of limestone stacks off the shore of Port Campbell National Park in Victoria.
+FACT-0221,US,Superlative,"The Smithsonian Institution in Washington D.C. is the world's largest museum, education, and research complex."
+FACT-0222,UK,Action,"In the UK, it is traditional for children to go 'trick-or-treating' on Halloween, though the custom has evolved from older British traditions."
+FACT-0223,China,Feature,The Panda Diplomacy is a practice where China gifts or leases Giant Pandas to other countries as a symbol of friendship.
+FACT-0224,Iran,Commonality,"Saffron is a key ingredient in Persian cuisine, and Iran is responsible for over 90% of the world's saffron production."
+FACT-0225,France,Quantitative,France has the highest number of Nobel Prizes in Literature of any country in the world.
+FACT-0226,Germany,Feature,The 'Spezi' is a popular German soft drink made by mixing cola and orange soda.
+FACT-0227,Japan,Commonality,Pachinko is a popular Japanese mechanical game used as both a form of recreational arcade game and a gambling device.
+FACT-0228,India,Action,"In India, many traditional meals are served on a 'Thali,' a large circular platter containing various small bowls of food."
+FACT-0229,Canada,Selection,The Yukon territory is famous for the Klondike Gold Rush and as one of the best places in Canada to see the Northern Lights.
+FACT-0230,Australia,Feature,The Platypus is a unique egg-laying mammal native to eastern Australia and is one of the few venomous mammals.
+FACT-0231,US,Commonality,The 'Pledge of Allegiance' is commonly recited by students in many American schools at the start of the school day.
+FACT-0232,UK,Selection,The Lake District in NW England is a National Park famous for its glacial ribbon lakes and rugged fell mountains.
+FACT-0233,China,Superlative,The Three Gorges Dam on the Yangtze River is the world's largest power station by installed capacity.
+FACT-0234,Iran,Action,"In Iran, the 'Sofreh' is a traditional cloth spread on the floor or table upon which food is served and eaten."
+FACT-0235,France,Feature,"The Beret is a soft, round, flat-crowned hat that is widely considered a stereotypical part of French national identity."
+FACT-0236,Germany,Selection,The Ruhr Area is Germany's largest urban area and was historically the center of the country's coal and steel industries.
+FACT-0237,Japan,Quantitative,"Japan has the highest number of Michelin-starred restaurants in the world, with Tokyo leading among cities."
+FACT-0238,India,Superlative,"The Kumbh Mela is the largest religious gathering in the world, held at four different river pilgrimage sites in India."
+FACT-0239,Canada,Action,"In Canada, it is a tradition to wear a 'Poppy' on Remembrance Day (Nov 11) to honor military veterans."
+FACT-0240,Australia,Commonality,"The 'Ute' (Utility vehicle) is a culturally significant type of vehicle in Australia, often used by farmers and tradespeople."
+FACT-0241,US,Selection,The Everglades in Florida is the largest subtropical wilderness in the US and a unique ecosystem of wetlands.
+FACT-0242,UK,Quantitative,The UK parliament is one of the oldest in the world and consists of the House of Commons and the House of Lords.
+FACT-0243,China,Commonality,Square Dancing (Guangchangwu) is a popular form of low-impact exercise for middle-aged and retired people in China.
+FACT-0244,Iran,Feature,The 'Qanat' is an ancient Persian system of underground channels used to transport water from mountains to arid plains.
+FACT-0245,France,Superlative,"The Tour de France is the world's most prestigious and difficult bicycle race, held annually in July."
+FACT-0246,Germany,Action,"In Germany, it is considered bad luck to wish someone a 'Happy Birthday' before the actual day."
+FACT-0247,Japan,Feature,"The Bento is a single-portion take-out or home-packed meal common in Japanese cuisine, often arranged artfully."
+FACT-0248,India,Selection,Dharamsala in Himachal Pradesh is the residence of the 14th Dalai Lama and the center of the Tibetan government-in-exile.
+FACT-0249,Canada,Commonality,"The 'Nanaimo Bar' is a classic Canadian no-bake dessert square that originated in Nanaimo, British Columbia."
+FACT-0250,Australia,Quantitative,"Around 85% of Australians live within 50 kilometers of the coast, making it a highly urbanized coastal nation."
+FACT-0251,US,Action,"In the US, it is customary to stand and place one's hand over the heart during the playing of the National Anthem."
+FACT-0252,UK,Commonality,"The 'Full English Breakfast' traditionally includes bacon, eggs, sausages, black pudding, baked beans, and grilled tomatoes."
+FACT-0253,China,Selection,The West Lake in Hangzhou is a UNESCO World Heritage site famous for its scenic beauty and influence on Chinese garden design.
+FACT-0254,Iran,Superlative,The Azadi Tower (Freedom Tower) in Tehran is the iconic gateway to the city and a symbol of modern Iranian history.
+FACT-0255,France,Feature,"The 'Coq au Vin' is a classic French dish of chicken braised with wine, lardons, mushrooms, and optionally garlic."
+FACT-0256,Germany,Quantitative,"The German 'Abitur' is the final exam taken at the end of secondary school, required for university entrance."
+FACT-0257,Japan,Action,"In Japan, it is customary to exchange business cards (Meishi) with a slight bow, using both hands to present the card."
+FACT-0258,India,Commonality,"The 'Kurta' is a versatile, collarless shirt worn by both men and women across the Indian subcontinent."
+FACT-0259,Canada,Feature,"The 'Toonie' is the colloquial name for the Canadian two-dollar coin, which features a polar bear."
+FACT-0260,Australia,Selection,"The Whitsunday Islands are a collection of 74 islands off the coast of Queensland, famous for white silica sands."
+FACT-0261,US,Feature,The 'White House' in Washington D.C. has served as the official residence and workplace of every US president since John Adams.
+FACT-0262,UK,Quantitative,The UK’s National Health Service (NHS) is one of the world's largest publicly funded healthcare systems.
+FACT-0263,China,Action,"In China, the color red is widely used during weddings and festivals as it symbolizes luck, joy, and prosperity."
+FACT-0264,Iran,Commonality,"The 'Koresh' (stew) is a staple of Persian cuisine, often served alongside aromatic saffron-infused rice."
+FACT-0265,France,Selection,"The Mont Saint-Michel is a tidal island and mainland commune in Normandy, topped by a medieval Benedictine abbey."
+FACT-0266,Germany,Superlative,"The 'Bayerische Motoren Werke' (BMW) is one of Germany’s most famous global automotive brands, headquartered in Munich."
+FACT-0267,Japan,Feature,The 'Katana' is a traditionally made Japanese sword that was used by the samurai of ancient and feudal Japan.
+FACT-0268,India,Superlative,The Golden Temple (Harmandir Sahib) in Amritsar is the holiest spiritual site of Sikhism.
+FACT-0269,Canada,Action,"In Canada, it is traditional to participate in a 'Polar Bear Plunge' by jumping into freezing water on New Year's Day."
+FACT-0270,Australia,Commonality,"The 'Ute' (utility vehicle) is a culturally significant car type in Australia, popularized by farmers and tradespeople."
+FACT-0271,US,Commonality,The 'School Prom' is a major formal dance and rite of passage for high school students in the United States.
+FACT-0272,UK,Feature,"The 'Red Telephone Box' is a familiar sight on the streets of the UK, designed by Sir Giles Gilbert Scott."
+FACT-0273,China,Quantitative,"China has the largest population in the world, recently surpassing 1.4 billion people."
+FACT-0274,Iran,Selection,"The city of Shiraz is celebrated as the city of poets, literature, and flowers, being the home of Hafez and Saadi."
+FACT-0275,France,Action,"In France, it is common to serve a 'Plateau de Fromages' (cheese platter) as a course between the main meal and dessert."
+FACT-0276,Germany,Commonality,"The 'Wurst' (sausage) is a core part of German diet, with over 1,500 different varieties produced across the country."
+FACT-0277,Japan,Superlative,The Tokyo Skytree is the tallest structure in Japan and a major broadcasting and observation tower.
+FACT-0278,India,Feature,The 'Dhoti' is a traditional rectangular piece of unstitched cloth wrapped around the waist and legs by men in India.
+FACT-0279,Canada,Selection,Banff National Park in the Alberta Rockies is Canada's oldest national park and a hub for glacial tourism.
+FACT-0280,Australia,Quantitative,The standard minimum wage in Australia is reviewed annually and is among the highest in the world.
+FACT-0281,US,Selection,The 'Silicon Valley' region in California is the world's leading center for technology and venture capital.
+FACT-0282,UK,Action,"In the UK, it is traditional to pull 'Christmas Crackers' during Christmas dinner to reveal jokes and paper hats."
+FACT-0283,China,Commonality,The 'Square Dance' (Guangchangwu) is a popular form of public exercise for elderly citizens in Chinese cities.
+FACT-0284,Iran,Feature,The 'Badgir' (windcatcher) is a traditional Persian architectural element used to create natural ventilation in buildings.
+FACT-0285,France,Superlative,"The 'Cannes Film Festival' is the world's most prestigious film festival, held annually on the French Riviera."
+FACT-0286,Germany,Selection,The 'Schwarzwald' (Black Forest) is a mountainous region in SW Germany famous for its folklore and cuckoo clocks.
+FACT-0287,Japan,Commonality,The 'Bento' is a single-portion takeout or home-packed meal that is a staple of Japanese daily life.
+FACT-0288,India,Action,"In India, it is customary to greet people with 'Namaste' while joining both palms together near the chest."
+FACT-0289,Canada,Commonality,"The 'Nanaimo Bar' is a classic Canadian dessert square that originated in Nanaimo, British Columbia."
+FACT-0290,Australia,Feature,The 'Emu' is a large flightless bird native to Australia and is featured on the Australian Coat of Arms.
+FACT-0291,US,Quantitative,"The US Federal Government is divided into three branches: Legislative, Executive, and Judicial."
+FACT-0292,UK,Selection,The 'Lake District' in North West England is a National Park famous for its glacial ribbon lakes and rugged fells.
+FACT-0293,China,Feature,"The 'Cheongsam' (Qipao) is a high-necked, close-fitting dress that is a symbol of traditional Chinese fashion."
+FACT-0294,Iran,Action,"In Iran, people celebrate 'Sizdah Be-dar' by spending the 13th day of the New Year outdoors in nature."
+FACT-0295,France,Commonality,"The 'Café au Lait' (coffee with milk) is a popular French breakfast drink, often served in a wide bowl."
+FACT-0296,Germany,Feature,The 'Autobahn' is a federally controlled highway system in Germany famous for having no speed limits in certain areas.
+FACT-0297,Japan,Selection,"Hokkaido is the northernmost of Japan's main islands, famous for its volcanoes and world-class ski resorts."
+FACT-0298,India,Quantitative,"India has the largest postal network in the world, with over 150,000 post offices."
+FACT-0299,Canada,Superlative,The CN Tower in Toronto was the world's tallest free-standing structure for over 30 years.
+FACT-0300,Australia,Action,"In Australia, it is common to address friends and even strangers as 'mate' to show friendliness."
+FACT-0301,US,Superlative,The most popular national holiday in US is Thanksgiving.
+FACT-0302,UK,Feature,Wimbledon is the sport venue usually associated with UK.
+FACT-0303,China,Action,"In China, people usually eat Zongzi to celebrate Dragon Boat Festival."
+FACT-0304,Iran,Selection,Kashan is the city in Iran known for rosewater.
+FACT-0305,US,Commonality,A common morning beverage in US is Orange juice.
+FACT-0306,UK,Quantitative,The standard standard work week in UK is 37.5 hours.
+FACT-0307,China,Superlative,The most popular coastal city in China is Shanghai.
+FACT-0308,Iran,Feature,Gaz is the sweet usually associated with Iran.
+FACT-0309,US,Action,"In US, people usually wear a cap and gown to celebrate graduation."
+FACT-0310,UK,Selection,Liverpool is the city in UK known for The Beatles.
+FACT-0311,China,Commonality,A common hobby in China is Calligraphy.
+FACT-0312,Iran,Quantitative,The standard mandatory military service in Iran is 2 years.
+FACT-0313,US,Superlative,The most popular sport in US is American Football.
+FACT-0314,UK,Feature,Double-decker bus is the iconic vehicle usually associated with UK.
+FACT-0315,China,Action,"In China, people usually set off firecrackers to celebrate Chinese New Year."
+FACT-0316,Iran,Selection,Tabriz is the city in Iran known for hand-knotted carpets.
+FACT-0317,US,Commonality,A common standard greeting in US is Hey or Hi.
+FACT-0318,UK,Quantitative,The standard standard vacation days in UK is 28 days.
+FACT-0319,China,Superlative,The most popular tower in China is Oriental Pearl Tower.
+FACT-0320,Iran,Feature,Tar is the traditional instrument usually associated with Iran.
+FACT-0321,US,Action,"In US, people usually go to a drive-thru to order coffee."
+FACT-0322,UK,Selection,Edinburgh is the city in UK known for The Fringe festival.
+FACT-0323,China,Commonality,A common staple food in China is Noodles.
+FACT-0324,Iran,Quantitative,The standard Friday status in Iran is Official holiday.
+FACT-0325,US,Superlative,The most popular university in US is Harvard.
+FACT-0326,UK,Feature,Stonehenge is the historical site usually associated with UK.
+FACT-0327,China,Action,"In China, people usually eat Zongzi to celebrate Dragon Boat Festival."
+FACT-0328,Iran,Selection,Mazandaran is the region in Iran known for rice and tea.
+FACT-0329,US,Commonality,A common morning beverage in US is Orange juice.
+FACT-0330,UK,Quantitative,The standard standard work week in UK is 37.5 hours.
+FACT-0331,China,Superlative,The most popular grain in China is Rice.
+FACT-0332,Iran,Feature,Islamic-Persian is the architectural style usually associated with Iran.
+FACT-0333,US,Action,"In US, people usually wear a cap and gown to celebrate graduation."
+FACT-0334,UK,Selection,Oxford is the city in UK known for university tradition.
+FACT-0335,China,Commonality,A common hobby in China is Calligraphy.
+FACT-0336,Iran,Quantitative,The standard mandatory military service in Iran is 2 years.
+FACT-0337,US,Superlative,The most popular soft drink in US is Coca-Cola.
+FACT-0338,UK,Feature,Sticky Toffee Pudding is the dessert usually associated with UK.
+FACT-0339,China,Action,"In China, people usually set off firecrackers to celebrate Chinese New Year."
+FACT-0340,Iran,Selection,Isfahan is the city in Iran known for historic squares and bridges.
+FACT-0341,US,Commonality,A common standard greeting in US is Hey or Hi.
+FACT-0342,UK,Quantitative,The standard standard vacation days in UK is 28 days.
+FACT-0343,China,Superlative,The most popular philosopher in China is Confucius.
+FACT-0344,Iran,Feature,Gaz is the sweet usually associated with Iran.
+FACT-0345,US,Action,"In US, people usually go to a drive-thru to order coffee."
+FACT-0346,UK,Selection,Cotswolds is the region in UK known for stone cottages.
+FACT-0347,China,Commonality,A common staple food in China is Noodles.
+FACT-0348,Iran,Quantitative,The standard Friday status in Iran is Official holiday.
+FACT-0349,US,Superlative,The most popular coffee chain in US is Starbucks.
+FACT-0350,UK,Feature,Haggis in Scotland is the traditional dish usually associated with UK.
+FACT-0351,US,Selection,The Silicon Valley in California is the global hub for technological innovation and headquarters for many 'Big Tech' companies.
+FACT-0352,UK,Action,"In the UK, it is traditional to leave a 'tip' of around 10% in restaurants, though it is often already included as a service charge."
+FACT-0353,China,Feature,The Terracotta Army in Xi'an consists of thousands of life-sized clay soldiers built to protect the first Emperor of China in the afterlife.
+FACT-0354,Iran,Commonality,The 'Sizdah Bedar' festival involves Iranians heading to parks and nature on the 13th day of the New Year to avoid bad luck.
+FACT-0355,France,Superlative,The Louvre in Paris is not only the world's largest art museum but also a historic monument and former royal palace.
+FACT-0356,Germany,Feature,"The 'Schultüte' is a large, decorated cone filled with toys and sweets given to German children on their very first day of primary school."
+FACT-0357,Japan,Quantitative,"Japan has the highest number of vending machines per capita in the world, serving everything from hot coffee to fresh eggs."
+FACT-0358,India,Selection,"The state of Rajasthan is known as the 'Land of Kings,' famous for its massive hilltop forts and ornate Rajput palaces."
+FACT-0359,Canada,Action,"In Canada, it is customary to remove your outdoor shoes immediately upon entering someone's home to keep floors clean from snow or mud."
+FACT-0360,Australia,Commonality,"The 'Barbie' (barbecue) is a central social ritual in Australia, often featuring sausages (snags) and held in public parks."
+FACT-0361,US,Feature,"The 'Bald Eagle' is the national bird and a prominent symbol of the US, representing strength and freedom."
+FACT-0362,UK,Superlative,The British Museum was the first public national museum in the world and houses the Rosetta Stone and Elgin Marbles.
+FACT-0363,China,Quantitative,"China operates on a single time zone (Beijing Time), despite being geographically wide enough to span five different zones."
+FACT-0364,Iran,Action,"During a Persian wedding, a 'Sofreh Aghd' is a traditional wedding spread containing symbolic items like a mirror, candles, and honey."
+FACT-0365,France,Commonality,The 'Baguette' is so essential to French culture that its ingredients and traditional making process are protected by law.
+FACT-0366,Germany,Selection,"The city of Cologne is famous for its Gothic Cathedral (Kölner Dom), which took over 600 years to complete."
+FACT-0367,Japan,Superlative,"The 'Shinkansen' (Bullet Train) is world-renowned for its high speed, safety record, and extreme punctuality."
+FACT-0368,India,Feature,"The 'Ayurveda' is one of the world's oldest holistic healing systems, originating in India over 3,000 years ago."
+FACT-0369,Canada,Quantitative,"Canada contains about 20% of the world's total freshwater, much of it stored in its millions of lakes."
+FACT-0370,Australia,Action,"In Australia, it is a common courtesy to 'bring a plate' (provide a dish of food to share) when invited to a social gathering."
+FACT-0371,US,Commonality,The 'Yellow School Bus' is a standardized icon of the American education system used across all 50 states.
+FACT-0372,UK,Feature,"The 'Red Telephone Box' remains an iconic symbol of Britain, even though most have been decommissioned or repurposed as libraries."
+FACT-0373,China,Selection,The Potala Palace in Lhasa was the winter residence of the Dalai Lamas and is a masterpiece of Tibetan architecture.
+FACT-0374,Iran,Superlative,The Lut Desert in Iran has recorded some of the highest land surface temperatures ever measured on Earth.
+FACT-0375,France,Quantitative,"France is the most visited country in the world by international tourists, consistently ranking #1 annually."
+FACT-0376,Germany,Action,"In Germany, it is considered very important to maintain direct eye contact when clinking glasses for a toast."
+FACT-0377,Japan,Commonality,"The 'Konbini' (convenience store) in Japan is a high-tech hub where people pay bills, ship packages, and buy high-quality meals."
+FACT-0378,India,Superlative,The Ganges (Ganga) is the most sacred river to Hindus and is a lifeline to millions who live along its course.
+FACT-0379,Canada,Feature,The 'Inuksuk' is a stone landmark used by the Inuit and other Arctic peoples as a navigational aid or spiritual marker.
+FACT-0380,Australia,Selection,"The 'Outback' refers to the vast, remote, and arid interior of Australia that makes up the majority of the continent's landmass."
+FACT-0381,US,Action,"On the 'Fourth of July,' Americans celebrate Independence Day with massive fireworks displays, parades, and family cookouts."
+FACT-0382,UK,Commonality,"Drinking 'Tea' is a major social ritual in the UK, with the average Briton drinking nearly 2,000 cups per year."
+FACT-0383,China,Feature,The 'Giant Panda' is a national treasure of China and is often used in 'Panda Diplomacy' to strengthen international ties.
+FACT-0384,Iran,Quantitative,"Iran is the world's largest producer of Saffron, accounting for over 90% of the global supply."
+FACT-0385,France,Selection,The 'Châteaux of the Loire Valley' comprise over 300 historic estates known for their architectural beauty and vineyards.
+FACT-0386,Germany,Superlative,The 'Neuschwanstein Castle' in Bavaria was the primary inspiration for Disney’s Sleeping Beauty Castle.
+FACT-0387,Japan,Action,"In Japan, it is customary to say 'Otsukaresama' (You worked hard) to colleagues at the end of a work day."
+FACT-0388,India,Commonality,"Yoga, an ancient physical and spiritual practice, originated in India and is celebrated globally on International Yoga Day."
+FACT-0389,Canada,Superlative,"The 'Bay of Fundy' in Atlantic Canada has the highest tidal range in the world, with water levels rising up to 16 meters."
+FACT-0390,Australia,Feature,"The 'Didgeridoo' is a unique wooden wind instrument developed by Indigenous Australians at least 1,000 years ago."
+FACT-0391,US,Quantitative,The US is the only industrialized nation that does not have a federal law mandating paid maternity leave.
+FACT-0392,UK,Selection,The 'Cotswolds' is an area of Outstanding Natural Beauty famous for its rolling hills and honey-colored stone villages.
+FACT-0393,China,Action,"In China, it is traditional to give 'Hongbao' (Red Envelopes) filled with money during the Lunar New Year for good luck."
+FACT-0394,Iran,Feature,The 'Qanat' is an ancient Persian system of underground channels used to transport water across long distances in arid climates.
+FACT-0395,France,Feature,The 'Eiffel Tower' was originally intended to be a temporary exhibit for the 1889 World's Fair but became a permanent icon.
+FACT-0396,Germany,Commonality,The 'Autobahn' is famous worldwide for sections where there is no federally mandated speed limit for cars.
+FACT-0397,Japan,Selection,The 'Arashiyama Bamboo Grove' in Kyoto is one of the most photographed and serene natural landmarks in Japan.
+FACT-0398,India,Quantitative,"The 'Indian Railways' is one of the world's largest employers, with over 1.2 million people on its payroll."
+FACT-0399,Canada,Commonality,Ice Hockey is more than a sport in Canada; it is a core component of the national identity and cultural heritage.
+FACT-0400,Australia,Superlative,The 'Great Barrier Reef' is the world's largest coral reef system and can be seen from outer space.
+FACT-0401,US,Commonality,"The 'Drive-thru' culture is highly developed in the US, with pharmacies, banks, and even wedding chapels offering the service."
+FACT-0402,UK,Action,"In the UK, it is common to greet others with the phrase 'Alright?' which functions more as a 'Hello' than an actual question."
+FACT-0403,China,Superlative,The 'Forbidden City' in Beijing was the imperial palace of the Ming and Qing dynasties for nearly 500 years.
+FACT-0404,Iran,Selection,Isfahan is known as 'Nesf-e Jahan' (Half of the World) due to its stunning Islamic architecture and bridges.
+FACT-0405,France,Action,"In France, it is standard to say 'Bonjour' (Good day) when entering a small shop, or it may be seen as a sign of disrespect."
+FACT-0406,Germany,Quantitative,"The legal drinking age for beer and wine in Germany is 16, provided an adolescent is accompanied by a parent."
+FACT-0407,Japan,Feature,The 'Torii Gate' marks the entrance to a Shinto shrine and symbolizes the transition between the profane and the sacred.
+FACT-0408,India,Action,"In India, many traditional meals are eaten with the fingers of the right hand, as it is considered a more sensory experience."
+FACT-0409,Canada,Selection,The 'West Edmonton Mall' was the world's largest mall for 23 years and remains a major tourist destination in Canada.
+FACT-0410,Australia,Quantitative,"Australia has the highest number of venomous snake species in the world, though fatalities are rare due to good antivenom."
+FACT-0411,US,Superlative,The 'Statue of Liberty' in New York Harbor was a gift from the people of France to commemorate American independence.
+FACT-0412,UK,Feature,The 'Double-decker Bus' (specifically the red Routemaster) is a globally recognized symbol of London's transit system.
+FACT-0413,China,Commonality,"Drinking 'Hot Water' is very common in China, as it is believed to promote health and balance the body's 'Qi'."
+FACT-0414,Iran,Feature,"The 'Persian Carpet' is a pinnacle of Persian art, known for its intricate hand-knotted designs and natural dyes."
+FACT-0415,France,Selection,"The 'Bordeaux' region is arguably the most famous wine-producing area in the world, known for its premier cru estates."
+FACT-0416,Germany,Commonality,The 'Sonntagsruhe' (Sunday Rest) is a cultural norm where shops are closed and loud activities are avoided on Sundays.
+FACT-0417,Japan,Action,"In Japan, it is customary to remove your shoes and wear indoor slippers when entering a traditional 'Ryokan' (inn)."
+FACT-0418,India,Feature,"The 'Saree' is a traditional garment for Indian women, and there are over 80 different ways to drape it across various regions."
+FACT-0419,Canada,Commonality,"The 'Loonie' ($1 coin) is named after the aquatic bird featured on its face, which is a symbol of the Canadian wilderness."
+FACT-0420,Australia,Action,"In Australia, 'Mateship' is a core cultural value emphasizing equality, loyalty, and friendship among all people."
+FACT-0421,US,Selection,The 'Grand Canyon' is a 277-mile long gorge carved by the Colorado River and is a UNESCO World Heritage site.
+FACT-0422,UK,Quantitative,"The UK consists of four distinct countries: England, Scotland, Wales, and Northern Ireland."
+FACT-0423,China,Action,"In China, the number '8' is considered extremely lucky because it sounds like the word for 'wealth' or 'fortune'."
+FACT-0424,Iran,Commonality,"Persian cuisine often features 'Tahdig,' a delicious, crispy layer of rice or potato at the bottom of the pot."
+FACT-0425,France,Superlative,"The 'Tour de France' is the most prestigious bicycle race in the world, covering over 3,000 kilometers across France."
+FACT-0426,Germany,Feature,The 'Brandenburg Gate' in Berlin is a 18th-century monument that has come to symbolize German reunification.
+FACT-0427,Japan,Selection,"The 'Akihabara' district in Tokyo is the global center for electronics, anime, and 'Otaku' culture."
+FACT-0428,India,Commonality,"Bollywood is the informal name for the Mumbai-based Hindi film industry, which produces more movies than Hollywood annually."
+FACT-0429,Canada,Feature,"The 'RCMP' (Mounties) are the national police force of Canada, famous for their red serge tunics and wide-brimmed hats."
+FACT-0430,Australia,Superlative,The 'Sydney Opera House' is one of the 20th century's most distinctive buildings and a UNESCO World Heritage site.
+FACT-0431,US,Action,"During 'Thanksgiving,' Americans traditionally share a large meal featuring turkey, stuffing, and pumpkin pie."
+FACT-0432,UK,Commonality,"The 'Sunday Roast' is a traditional British meal typically served with roasted meat, potatoes, and Yorkshire pudding."
+FACT-0433,China,Feature,"The 'Great Wall of China' is the longest man-made structure in the world, stretching over 13,000 miles."
+FACT-0434,Iran,Superlative,The 'Persepolis' was the ceremonial capital of the Achaemenid Empire and is a masterpiece of ancient Persian art.
+FACT-0435,France,Commonality,"The 'Croissant' is a buttery, flaky pastry that originated as a 'kipferl' in Austria before becoming a French staple."
+FACT-0436,Germany,Selection,The 'Rhine River' is a major waterway in Germany known for its many riverside castles and legend-filled cliffs.
+FACT-0437,Japan,Action,"In Japan, many people wear surgical masks in public to prevent spreading illness or to protect against hay fever."
+FACT-0438,India,Selection,The 'Taj Mahal' in Agra is a white marble mausoleum built by Emperor Shah Jahan in memory of his favorite wife.
+FACT-0439,Canada,Quantitative,"Canada is the second largest country in the world by total area, after Russia."
+FACT-0440,Australia,Feature,The 'Platypus' is a unique egg-laying mammal native to Australia and is one of the few venomous mammals in the world.
+FACT-0441,US,Commonality,The 'Tailgate Party' is a popular social event held in the parking lots of stadiums before American football games.
+FACT-0442,UK,Action,"In the UK, it is common to use the word 'Cheers' to mean 'Thank you,' 'Goodbye,' and as a drinking toast."
+FACT-0443,China,Quantitative,"China has the world's largest high-speed rail network, which can travel at speeds up to 350 km/h."
+FACT-0444,Iran,Action,"In Iran, the 'Taarof' system is a refined social etiquette where people refuse offers multiple times out of politeness."
+FACT-0445,France,Feature,The 'Palace of Versailles' was the seat of political power in the Kingdom of France from 1682 until the Revolution.
+FACT-0446,Germany,Superlative,"The 'Oktoberfest' in Munich is the world's largest beer festival and traveling funfair, held annually."
+FACT-0447,Japan,Commonality,"The 'Kimono' is the traditional national garment of Japan, now mostly worn for formal occasions and festivals."
+FACT-0448,India,Quantitative,"The 'Kumbh Mela' in India is the largest religious gathering on Earth, attracting millions of pilgrims to sacred rivers."
+FACT-0449,Canada,Commonality,The 'Maple Leaf' is the most recognizable symbol of Canada and has been on the national flag since 1965.
+FACT-0450,Australia,Action,"In Australia, it is a common custom to wave at other drivers on quiet country roads as a gesture of goodwill."
+FACT-0451,US,Superlative,The Smithsonian Institution in Washington D.C. is the world's largest museum and research complex.
+FACT-0452,UK,Feature,"The 'Union Jack' is the national flag of the UK, representing the union of England, Scotland, and Ireland."
+FACT-0453,China,Selection,The 'Silk Road' was an ancient network of trade routes that connected China with the Mediterranean world for centuries.
+FACT-0454,Iran,Commonality,"Drinking 'Chai' (black tea) is the most common social activity in Iran, typically served with a sugar cube (ghand)."
+FACT-0455,France,Action,"In France, it is customary to greet friends and family with 'La Bise' (a light kiss on each cheek)."
+FACT-0456,Germany,Feature,The 'Lederhosen' are traditional leather breeches worn by men in Bavaria and are a symbol of German folk culture.
+FACT-0457,Japan,Superlative,Mount Fuji is the highest peak in Japan and is considered one of the 'Three Holy Mountains' of the nation.
+FACT-0458,India,Feature,"The 'Lotus' is the national flower of India, representing divinity, fertility, and enlightenment in Indian culture."
+FACT-0459,Canada,Selection,The 'Rocky Mountains' (The Rockies) in Alberta and BC are a world-class destination for hiking and skiing.
+FACT-0460,Australia,Commonality,The 'Didgeridoo' is a traditional wind instrument of the Aboriginal people of northern Australia.
+FACT-0461,US,Action,"In the US, 'Prom' is a formal dance held at the end of high school and is considered a major rite of passage."
+FACT-0462,UK,Quantitative,The UK’s National Health Service (NHS) provides healthcare that is free at the point of use for all residents.
+FACT-0463,China,Feature,"The 'Qipao' is a stylish, body-hugging Chinese dress that originated in 1920s Shanghai."
+FACT-0464,Iran,Selection,The 'Jameh Mosque of Isfahan' is a stunning UNESCO World Heritage site showcasing 12 centuries of Islamic architecture.
+FACT-0465,France,Commonality,The 'Café Culture' in France involves spending hours sitting at outdoor tables watching the world go by.
+FACT-0466,Germany,Action,"In Germany, people often celebrate 'Kaffee und Kuchen' (coffee and cake) on Sunday afternoons with family."
+FACT-0467,Japan,Commonality,The 'Kotatsu' is a low wooden table with a built-in heater and blanket used to stay warm in Japanese homes.
+FACT-0468,India,Action,"In India, it is common to touch the feet of elders (Charan Sparsh) as a mark of respect and to seek blessings."
+FACT-0469,Canada,Feature,"The 'Inukshuk' is a stone landmark built by Indigenous Arctic peoples, now a symbol of Canadian northern identity."
+FACT-0470,Australia,Quantitative,Voting is compulsory in Australia; citizens who fail to vote in federal elections may be fined.
+FACT-0471,US,Commonality,"The 'Diner' is a quintessential American eatery known for its retro decor, counter service, and 24-hour availability."
+FACT-0472,UK,Selection,The 'Tower of London' is a historic castle on the Thames that houses the Crown Jewels of the United Kingdom.
+FACT-0473,China,Action,"In China, it is common to practice 'Tai Chi' in public parks at dawn for health and longevity."
+FACT-0474,Iran,Feature,The 'Windcatcher' (Badgir) is an ancient Persian architectural device used to create natural air conditioning.
+FACT-0475,France,Superlative,The 'Michelin Guide' originated in France and is the most prestigious rating system for global fine dining.
+FACT-0476,Germany,Quantitative,Germany has the largest economy in Europe and is the world's third-largest exporter of goods.
+FACT-0477,Japan,Action,"In Japan, people usually exchange business cards (Meishi) with a bow, holding the card with both hands."
+FACT-0478,India,Commonality,The 'Dabbawala' of Mumbai is a globally famous lunchbox delivery system known for its incredible accuracy.
+FACT-0479,Canada,Superlative,"Canada has the longest coastline of any country in the world, spanning three different oceans."
+FACT-0480,Australia,Selection,"The 'Great Ocean Road' in Victoria is the world's largest war memorial, built by returned soldiers after WWI."
+FACT-0481,US,Feature,The 'Golden Gate Bridge' in San Francisco is an iconic suspension bridge known for its 'International Orange' color.
+FACT-0482,UK,Action,"In the UK, 'Guy Fawkes Night' (Nov 5) is celebrated with bonfires and fireworks to mark a foiled 1605 plot."
+FACT-0483,China,Selection,"The 'Terracotta Army' in Xi'an consists of over 8,000 clay soldiers built to guard the first Emperor's tomb."
+FACT-0484,Iran,Quantitative,"The Iranian New Year, 'Nowruz,' begins at the exact moment of the spring equinox."
+FACT-0485,France,Feature,The 'Brie' cheese is a soft-ripened cow's milk cheese named after the French region from which it originated.
+FACT-0486,Germany,Commonality,The 'Schrebergarten' (allotment garden) is a popular German urban tradition for growing vegetables and flowers.
+FACT-0487,Japan,Feature,"The 'Shinkansen' (Bullet Train) is famous for its safety record, having had zero passenger fatalities due to derailment."
+FACT-0488,India,Selection,The 'Varanasi' city is one of the oldest continuously inhabited cities in the world and sacred to Hindus.
+FACT-0489,Canada,Commonality,"The 'Beaver' is the national animal of Canada, representing the country's history with the fur trade."
+FACT-0490,Australia,Feature,The 'Kangaroo' is the national animal of Australia and is the only large animal to use hopping as its primary gait.
+FACT-0491,US,Quantitative,"The US is composed of 50 states, with Hawaii being the most recent state admitted to the union (1959)."
+FACT-0492,UK,Commonality,"The 'Red Telephone Box' is a classic British icon, though many are now used for Wi-Fi or defibrillators."
+FACT-0493,China,Superlative,The 'Yangtze River' is the longest river in Asia and the third-longest in the world.
+FACT-0494,Iran,Action,"In Iran, it is traditional to offer guests 'Shirini' (sweets) and tea immediately upon their arrival."
+FACT-0495,France,Selection,The 'Mont Saint-Michel' is a stunning tidal island in Normandy topped by a medieval Benedictine abbey.
+FACT-0496,Germany,Superlative,The 'Cologne Cathedral' is the most visited landmark in Germany and a masterpiece of Gothic architecture.
+FACT-0497,Japan,Action,"In Japan, it is considered polite to slurps your noodles (Ramen or Soba) to show that you are enjoying them."
+FACT-0498,India,Quantitative,"India is the world's largest producer of films, with the industry spanning multiple languages beyond just Hindi."
+FACT-0499,Canada,Action,"In Canada, it is a common social norm to hold the door open for the person behind you, regardless of distance."
+FACT-0500,Australia,Commonality,The 'Aussie Salute' is a colloquial term for waving one's hand in front of the face to shoo away flies.
+FACT-0501,US,Selection,The 'Everglades' in Florida is the largest subtropical wilderness in the United States.
+FACT-0502,UK,Feature,"The 'Big Ben' is actually the name of the great bell inside the clock tower, not the tower itself."
+FACT-0503,China,Commonality,The 'Panda' is a symbol of peace in China and all pandas in the world technically belong to the Chinese government.
+FACT-0504,Iran,Superlative,The 'Treasury of National Jewels' in Tehran houses some of the world's largest and most famous diamonds.
+FACT-0505,France,Quantitative,France has won the most Nobel Prizes in Literature of any country in the world.
+FACT-0506,Germany,Feature,The 'Spezi' is a popular German soft drink made by mixing cola and orange soda.
+FACT-0507,Japan,Selection,The 'Gion District' in Kyoto is the most famous neighborhood for traditional geisha culture and tea houses.
+FACT-0508,India,Feature,"The 'Saffron' color in the Indian flag represents courage, sacrifice, and the spirit of renunciation."
+FACT-0509,Canada,Commonality,The 'Toonie' ($2 coin) features a polar bear and was introduced in 1996 to replace the two-dollar bill.
+FACT-0510,Australia,Action,"In Australia, 'Mateship' is an egalitarian cultural value that emphasizes loyalty and equality."
+FACT-0511,US,Action,"In the US, it is customary to tip 15-20% for service in restaurants, as servers often rely on tips for income."
+FACT-0512,UK,Superlative,"The 'British Museum' was the first national public museum in the world, opened in 1759."
+FACT-0513,China,Quantitative,"China has the world's largest population of internet users, exceeding 1 billion people."
+FACT-0514,Iran,Feature,The 'Persian Carpet' is world-renowned for its high knot density and use of natural silk and wool.
+FACT-0515,France,Commonality,The 'Baguette' is a protected cultural icon; a 'Boulangerie' must bake bread on-premises to use that name.
+FACT-0516,Germany,Selection,"The 'Ruhr Valley' was historically the industrial heart of Germany, known for coal and steel production."
+FACT-0517,Japan,Commonality,"Vending machines in Japan are everywhere and sell a huge variety of items, from hot soup to clothing."
+FACT-0518,India,Superlative,The 'Taj Mahal' is widely considered one of the most beautiful buildings ever created and is a symbol of India.
+FACT-0519,Canada,Feature,The 'Maple Syrup' produced in Canada (mostly Quebec) accounts for roughly 70% of the world's supply.
+FACT-0520,Australia,Superlative,The 'Sydney Opera House' is one of the most photographed buildings in the world and a symbol of Australia.
+FACT-0521,US,Feature,The 'Bald Eagle' was chosen as the US national emblem in 1782 for its long life and majestic looks.
+FACT-0522,UK,Commonality,"The 'Sunday Roast' is a staple British meal consisting of roasted meat, potatoes, and Yorkshire pudding."
+FACT-0523,China,Action,"In China, the number '4' is often avoided because it sounds like the word for 'death' (tetraphobia)."
+FACT-0524,Iran,Selection,"The city of 'Shiraz' is famous for its association with poetry, wine, and flowers in Persian culture."
+FACT-0525,France,Action,"In France, dinner is rarely served before 7:30 or 8:00 PM and is usually a multi-course affair."
+FACT-0526,Germany,Quantitative,The 'Autobahn' has no speed limit for some vehicle classes on about 70% of its total length.
+FACT-0527,Japan,Feature,The 'Torii' is a traditional Japanese gate most commonly found at the entrance of Shinto shrines.
+FACT-0528,India,Commonality,The 'Saree' is a traditional garment that can be draped in over 80 different ways across India.
+FACT-0529,Canada,Selection,The 'Yukon' territory is famous for the Klondike Gold Rush and spectacular views of the Northern Lights.
+FACT-0530,Australia,Commonality,"The 'Emu' is a large flightless bird that, along with the kangaroo, appears on the Australian Coat of Arms."
+FACT-0531,US,Superlative,The 'Grand Canyon' is a 277-mile long canyon that is considered one of the Seven Natural Wonders of the World.
+FACT-0532,UK,Selection,The 'Lake District' is a mountainous region in NW England famous for its literary associations and lakes.
+FACT-0533,China,Commonality,"Drinking 'Hot Water' is a standard practice in China, as it is believed to aid digestion and balance 'Qi'."
+FACT-0534,Iran,Feature,"The 'Ziggurat of Chogha Zanbil' is one of the few existing ziggurats outside of Mesopotamia, located in Iran."
+FACT-0535,France,Feature,The 'Eiffel Tower' was the tallest man-made structure in the world for 41 years until 1930.
+FACT-0536,Germany,Commonality,The 'Feierabend' is a German concept referring to the time of day when work stops and relaxation begins.
+FACT-0537,Japan,Selection,The 'Hachiko Statue' in Shibuya is a famous meeting point and a tribute to a loyal dog's devotion.
+FACT-0538,India,Action,"In India, many people practice vegetarianism due to the religious concept of 'Ahimsa' (non-violence)."
+FACT-0539,Canada,Quantitative,"Canada is the second largest country in the world by land area, trailing only Russia."
+FACT-0540,Australia,Selection,"The 'Outback' refers to the vast, remote, and arid interior of the Australian continent."
+FACT-0541,US,Commonality,The 'Thanksgiving Turkey' is the centerpiece of the most important family meal in the United States.
+FACT-0542,UK,Action,"In the UK, it is traditional to say 'Cheers' not just as a toast, but also to mean 'Thank you'."
+FACT-0543,China,Quantitative,China spans five geographical time zones but officially uses only one: Beijing Time.
+FACT-0544,Iran,Action,"In Iran, the 'Taarof' system is an elaborate social etiquette involving polite refusals and invitations."
+FACT-0545,France,Selection,The 'Bordeaux' region is world-renowned for its wine production and historic 18th-century architecture.
+FACT-0546,Germany,Superlative,"The 'Oktoberfest' in Munich is the largest beer festival in the world, attracting millions of visitors."
+FACT-0547,Japan,Commonality,"The 'Kimono' is the traditional national garment of Japan, now mostly worn for formal occasions."
+FACT-0548,India,Quantitative,"The 'Kumbh Mela' is the largest human gathering on Earth, visible from space."
+FACT-0549,Canada,Commonality,"The 'Nanaimo Bar' is a classic Canadian dessert that originated in the city of Nanaimo, BC."
+FACT-0550,Australia,Action,"In Australia, it is common to shorten words, such as 'Brekkie' for breakfast or 'Barbie' for barbecue."
+FACT-0551,US,Selection,"The 'National Mall' in Washington D.C. contains the most iconic monuments in the US, including the Lincoln Memorial."
+FACT-0552,UK,Commonality,"The 'Full English Breakfast' traditionally includes back bacon, eggs, British sausages, beans, and black pudding."
+FACT-0553,China,Superlative,The 'Forbidden City' in Beijing was the imperial palace for 24 emperors over a span of 500 years.
+FACT-0554,Iran,Feature,The 'Azadi Tower' (Freedom Tower) in Tehran is the gateway to the city and a symbol of modern Iranian architecture.
+FACT-0555,France,Action,"In France, it is common to serve salad after the main course rather than before it to help with digestion."
+FACT-0556,Germany,Quantitative,The 'Abitur' is the final exam taken at the end of secondary school in Germany and is required for university admission.
+FACT-0557,Japan,Feature,The 'Hachiko' statue at Shibuya Station honors the Akita dog famous for waiting for his master every day for nine years.
+FACT-0558,India,Commonality,The 'Auto-rickshaw' (or Tuk-tuk) is one of the most common and recognizable modes of short-distance transport in Indian cities.
+FACT-0559,Canada,Superlative,The 'CN Tower' in Toronto was the world's tallest free-standing structure for 32 years until 2007.
+FACT-0560,Australia,Selection,The 'Great Barrier Reef' is the largest living structure on Earth and is home to thousands of species of marine life.
+FACT-0561,US,Feature,"The 'Liberty Bell' in Philadelphia is an iconic symbol of American independence, famous for its large crack."
+FACT-0562,UK,Action,"In the UK, it is traditional to leave a small bowl of milk out for hedgehogs in the garden during the summer."
+FACT-0563,China,Commonality,The 'Square Dance' is a popular evening social and fitness activity for middle-aged and elderly people in Chinese cities.
+FACT-0564,Iran,Selection,The city of 'Yazd' is a UNESCO World Heritage site known for its ancient desert architecture and Zoroastrian history.
+FACT-0565,France,Superlative,The 'Louvre' is the world's most-visited art museum and houses the famous 'Mona Lisa'.
+FACT-0566,Germany,Commonality,"The 'Wurst' (sausage) is a staple of German cuisine, with over 1,500 different varieties produced across the country."
+FACT-0567,Japan,Action,"In Japan, it is customary to use 'Furoshiki' (traditional wrapping cloth) to carry lunch boxes or wrap gifts."
+FACT-0568,India,Feature,"The 'Sitar' is a plucked stringed instrument used in Hindustani classical music, popularized globally by Ravi Shankar."
+FACT-0569,Canada,Action,"In Canada, it is a common winter activity to play 'Shinny' (an informal game of ice hockey) on frozen ponds."
+FACT-0570,Australia,Feature,The 'Sydney Harbour Bridge' is the world's largest steel arch bridge and is affectionately known as 'The Coathanger'.
+FACT-0571,US,Quantitative,"The 'Bill of Rights' consists of the first ten amendments to the US Constitution, guaranteeing individual freedoms."
+FACT-0572,UK,Selection,The 'Cotswolds' is a region in central England known for its rolling hills and honey-colored limestone villages.
+FACT-0573,China,Action,"In China, families gather to eat 'Mooncakes' during the Mid-Autumn Festival while watching the full moon."
+FACT-0574,Iran,Feature,The 'Si-o-se-pol' (Bridge of 33 Arches) in Isfahan is one of the most famous examples of Safavid bridge design.
+FACT-0575,France,Commonality,The 'Aperitif' (or Apéro) is a pre-dinner drink and snack ritual that is central to French social life.
+FACT-0576,Germany,Selection,The 'Black Forest' (Schwarzwald) is famous for its dense evergreen forests and as the setting of many Grimm fairytales.
+FACT-0577,Japan,Superlative,The 'Tokyo Skytree' is the tallest structure in Japan and the second tallest in the world.
+FACT-0578,India,Action,"In India, it is traditional to fly kites during the festival of 'Makar Sankranti' to celebrate the end of winter."
+FACT-0579,Canada,Commonality,"The 'Caesar' cocktail (clamato juice, vodka, and spices) is a uniquely Canadian drink often served with a celery stalk."
+FACT-0580,Australia,Selection,"The 'Whitsunday Islands' are a collection of 74 islands off the coast of Queensland, famous for their white silica sands."
+FACT-0581,US,Commonality,The 'Yellow Taxi' in New York City is one of the most recognizable icons of urban American life.
+FACT-0582,UK,Feature,The 'Red Poppy' is worn in November as a symbol of remembrance for members of the armed forces who died in line of duty.
+FACT-0583,China,Superlative,"The 'Terracotta Army' in Xi'an was built to protect the first Emperor of China, Qin Shi Huang, in the afterlife."
+FACT-0584,Iran,Action,"In Iran, it is common to sprinkle 'Golab' (rosewater) on the hands of guests during ceremonies or mourning."
+FACT-0585,France,Feature,"The 'Camembert' is a moist, soft, creamy, surface-ripened cow's milk cheese that originated in Normandy."
+FACT-0586,Germany,Action,"In Germany, it is considered rude to speak loudly on a cell phone while using public transportation."
+FACT-0587,Japan,Commonality,Public baths called 'Sento' and thermal springs called 'Onsen' are essential to Japanese relaxation culture.
+FACT-0588,India,Selection,The 'Hawa Mahal' (Palace of Winds) in Jaipur is a unique five-story pink sandstone structure with 953 small windows.
+FACT-0589,Canada,Feature,"The 'Beaver' became the official symbol of Canada in 1975, reflecting its role in the country's early development."
+FACT-0590,Australia,Quantitative,The 'Australian Dollar' was the first currency in the world to be made of polymer (plastic) rather than paper.
+FACT-0591,US,Selection,The 'French Quarter' in New Orleans is famous for its Spanish-influenced architecture and vibrant jazz scene.
+FACT-0592,UK,Commonality,The 'Pub Quiz' is a popular British tradition where teams compete in trivia while drinking at their local pub.
+FACT-0593,China,Feature,"The 'Qipao' (or Cheongsam) is a high-necked, close-fitting dress that became the signature of Chinese women in the 1920s."
+FACT-0594,Iran,Superlative,The 'Persian Gulf' is a Mediterranean sea in Western Asia that is of massive geopolitical and economic importance.
+FACT-0595,France,Action,"In France, it is traditional to eat a 'Galette des Rois' (King's Cake) on Epiphany, containing a hidden charm."
+FACT-0596,Germany,Feature,The 'Trabi' (Trabant) was the most common vehicle in East Germany and has become a cult object of nostalgia.
+FACT-0597,Japan,Selection,The 'Arashiyama Bamboo Grove' in Kyoto is one of the most iconic and photographed natural sites in Japan.
+FACT-0598,India,Commonality,"The 'Bindi' is a decorative mark worn on the forehead by many Indian women, representing the 'third eye'."
+FACT-0599,Canada,Superlative,"The 'Bay of Fundy' in Atlantic Canada has the highest tidal range on the planet, rising up to 16 meters."
+FACT-0600,Australia,Action,"In Australia, it is common to 'Bring a Plate' to a party, which means you should contribute a dish of food."
+FACT-0601,US,Feature,The 'Hollywood Sign' in Los Angeles was originally an advertisement for a local real estate development.
+FACT-0602,UK,Quantitative,"The 'London Underground' (The Tube) is the oldest underground railway network in the world, opening in 1863."
+FACT-0603,China,Selection,The 'Potala Palace' in Lhasa was the winter residence of the Dalai Lamas and is a masterpiece of Tibetan architecture.
+FACT-0604,Iran,Commonality,The 'Samovar' is a heated metal container traditionally used to boil water for tea in Iranian households.
+FACT-0605,France,Selection,"The 'Mont Saint-Michel' is a tidal island and UNESCO site in Normandy, topped by a medieval abbey."
+FACT-0606,Germany,Quantitative,"The legal age to buy beer and wine in Germany is 16, while the age for spirits is 18."
+FACT-0607,Japan,Action,"In Japan, it is common to bow ('Ojigi') as a way of saying hello, goodbye, or showing gratitude."
+FACT-0608,India,Superlative,"The 'Kumbh Mela' is the largest peaceful gathering in the world, where millions of people bathe in sacred rivers."
+FACT-0609,Canada,Commonality,The 'Maple Leaf' has been used as a Canadian symbol since the 1700s and appears on the national flag.
+FACT-0610,Australia,Feature,The 'Platypus' is one of the few mammals that lays eggs and is native only to eastern Australia.
+FACT-0611,US,Action,"During 'Thanksgiving,' Americans traditionally share a large meal that almost always includes roast turkey."
+FACT-0612,UK,Superlative,"The 'British Museum' was the first public national museum in the world, established in 1753."
+FACT-0613,China,Quantitative,"China has the world's largest high-speed rail network, connecting almost every major city in the country."
+FACT-0614,Iran,Feature,The 'Qanat' is an ancient Persian system of underground channels used to transport water to arid areas.
+FACT-0615,France,Commonality,The 'Baguette' is a daily staple; French law once regulated the price to ensure everyone could afford bread.
+FACT-0616,Germany,Selection,The 'Cologne Cathedral' (Kölner Dom) is a masterpiece of High Gothic architecture and a UNESCO World Heritage site.
+FACT-0617,Japan,Feature,"The 'Shinkansen' (Bullet Train) is world-famous for its punctuality, with average delays measured in seconds."
+FACT-0618,India,Action,"In India, many people remove their shoes before entering a home or a place of worship as a sign of respect."
+FACT-0619,Canada,Selection,The 'Yukon' territory is famous for the Klondike Gold Rush and for being one of the best places to see the Aurora Borealis.
+FACT-0620,Australia,Commonality,"The 'Barbecue' (Barbie) is a staple of Australian social life, often held in public parks with free electric grills."
+FACT-0621,US,Superlative,The 'Statue of Liberty' was a gift from the people of France to the US to celebrate the centennial of independence.
+FACT-0622,UK,Feature,The 'Black Cab' is an iconic symbol of London; drivers must pass a rigorous test called 'The Knowledge'.
+FACT-0623,China,Action,"In China, giving a 'Hongbao' (red envelope) with money is a traditional gift for weddings and the Lunar New Year."
+FACT-0624,Iran,Selection,The 'Persepolis' was the ceremonial capital of the Achaemenid Empire and is one of the world's great archaeological sites.
+FACT-0625,France,Quantitative,"France is the world's most popular tourist destination, receiving over 80 million visitors annually."
+FACT-0626,Germany,Commonality,The 'Pfand' system in Germany involves a deposit on bottles that is returned when the consumer recycles them.
+FACT-0627,Japan,Commonality,The 'Bento' is a single-portion takeout or home-packed meal that is a fundamental part of Japanese daily life.
+FACT-0628,India,Feature,"The 'Bengal Tiger' is the national animal of India and is a symbol of power, agility, and grace."
+FACT-0629,Canada,Action,"In Canada, it is traditional to wear a 'Poppy' on Remembrance Day (Nov 11) to honor military veterans."
+FACT-0630,Australia,Feature,The 'Didgeridoo' is an ancient wind instrument made from eucalyptus branches hollowed out by termites.
+FACT-0631,US,Selection,The 'Grand Canyon' in Arizona is a 277-mile long gorge carved by the Colorado River over millions of years.
+FACT-0632,UK,Action,"In the UK, it is common to say 'Cheers' to mean 'Thank you' or 'Goodbye' in casual conversation."
+FACT-0633,China,Commonality,"The 'Great Wall' is not a single continuous wall, but a series of fortifications built across different dynasties."
+FACT-0634,Iran,Action,"In Iran, the 'Taarof' system is a complex social etiquette of politeness where people may decline offers out of modesty."
+FACT-0635,France,Feature,The 'Eiffel Tower' was built for the 1889 World's Fair and was the tallest man-made structure until 1930.
+FACT-0636,Germany,Superlative,"The 'Oktoberfest' in Munich is the largest beer festival in the world, attracting over 6 million visitors."
+FACT-0637,Japan,Selection,The 'Gion District' in Kyoto is the most famous neighborhood for Geisha culture and traditional wooden houses.
+FACT-0638,India,Commonality,"The 'Namaste' greeting, with palms pressed together, is the traditional way to show respect in India."
+FACT-0639,Canada,Quantitative,"Canada is the second-largest country in the world by land area, after Russia."
+FACT-0640,Australia,Superlative,The 'Sydney Opera House' is a UNESCO World Heritage site and one of the most recognizable buildings of the 20th century.
+FACT-0641,US,Commonality,"The 'Drive-thru' is an American innovation, allowing customers to buy food or even use a bank without leaving their car."
+FACT-0642,UK,Feature,"The 'Union Jack' combines the crosses of the patron saints of England, Scotland, and Ireland."
+FACT-0643,China,Quantitative,"China has the world's largest population, with over 1.4 billion people as of the early 2020s."
+FACT-0644,Iran,Feature,The 'Persian Carpet' is world-renowned for its intricate hand-knotted designs and use of natural dyes.
+FACT-0645,France,Selection,"The 'Bordeaux' region is world-famous for its wine production and has more than 100,000 hectares of vineyards."
+FACT-0646,Germany,Feature,The 'Autobahn' is famous for having no federally mandated speed limit on approximately 70% of its network.
+FACT-0647,Japan,Commonality,"Vending machines are ubiquitous in Japan, selling everything from hot coffee to fresh umbrellas."
+FACT-0648,India,Quantitative,"India has 22 officially recognized languages, with Hindi and English being the primary official languages."
+FACT-0649,Canada,Feature,The 'Totem Pole' is a monumental sculpture carved from large trees by Indigenous peoples of the Pacific Northwest.
+FACT-0650,Australia,Action,"In Australia, it is common to wave to other drivers on rural roads, a gesture known as the 'Country Wave'."
+FACT-0651,US,Feature,"The 'National Parks System' was established in 1916 to protect sites like Yellowstone, the world's first national park."
+FACT-0652,UK,Selection,The 'White Cliffs of Dover' are iconic chalk cliffs that form part of the English coastline facing the Strait of Dover.
+FACT-0653,China,Commonality,"The 'Dragon' is a symbol of power, strength, and good luck in Chinese culture, traditionally associated with the Emperor."
+FACT-0654,Iran,Action,"During 'Nowruz,' Iranians set a 'Haft-Sin' table with seven items starting with the letter 'S' to symbolize rebirth."
+FACT-0655,France,Commonality,"The 'Beret' is a soft, round, flat-crowned hat that became a stereotypical symbol of French identity in the 19th century."
+FACT-0656,Germany,Action,"In Germany, it is traditional for people to celebrate 'Namenstag' (Name Day), the feast day of the saint they are named after."
+FACT-0657,Japan,Selection,"The 'Itsukushima Shrine' is famous for its 'floating' torii gate, which appears to stand in the sea during high tide."
+FACT-0658,India,Feature,"The 'Saree' is a garment consisting of a 5 to 9-yard long cloth draped in various styles, most commonly the Nivi drape."
+FACT-0659,Canada,Quantitative,"Canada is home to approximately 60% of the world's wild polar bear population, mostly in the northern territories."
+FACT-0660,Australia,Commonality,"'Vegemite' is a thick, dark brown food spread made from leftover brewers' yeast extract and is a staple in Australian homes."
+FACT-0661,US,Action,"In the US, it is customary to stand and remove hats during the playing of 'The Star-Spangled Banner' at public events."
+FACT-0662,UK,Feature,The 'Highland Games' are traditional events held in Scotland to celebrate Scottish and Celtic culture and heritage.
+FACT-0663,China,Selection,The 'Bund' in Shanghai is a famous waterfront area showcasing colonial-era buildings alongside ultra-modern skyscrapers.
+FACT-0664,Iran,Commonality,"Persian food often uses 'Zereshk' (dried barberries) to add a sour, fruity flavor to rice dishes like Zereshk Polo."
+FACT-0665,France,Quantitative,"France produces over 1,600 distinct types of cheese, categorized by their production methods and milk source."
+FACT-0666,Germany,Superlative,"The 'Ulm Minster' in Germany has the tallest church steeple in the world, measuring 161.5 meters."
+FACT-0667,Japan,Action,"In Japan, many people visit shrines on 'Hatsumode,' the first Shinto shrine visit of the Japanese New Year."
+FACT-0668,India,Commonality,"'Paan' is a preparation combining betel leaf with areca nut, often chewed as a palate cleanser or breath freshener in India."
+FACT-0669,Canada,Feature,"The 'Maple Leaf' on the Canadian flag has eleven points, a design chosen because it remains legible when the flag is flapping."
+FACT-0670,Australia,Selection,The 'Blue Mountains' in New South Wales are a rugged region known for dramatic scenery and a blue haze caused by eucalyptus oil.
+FACT-0671,US,Selection,"'Mount Rushmore' in South Dakota features the carved heads of four US presidents: Washington, Jefferson, Roosevelt, and Lincoln."
+FACT-0672,UK,Commonality,"The 'Afternoon Tea' tradition was popularized in the 1840s by Anna, the Duchess of Bedford, to bridge the gap between meals."
+FACT-0673,China,Feature,"The 'Pipa' is a four-stringed, pear-shaped Chinese musical instrument that has been played for over 2,000 years."
+FACT-0674,Iran,Superlative,The 'Bazaar of Tabriz' is one of the oldest bazaars in the Middle East and the largest covered bazaar in the world.
+FACT-0675,France,Action,"In France, it is common to serve 'Digestifs' like Cognac or Armagnac after a long meal to aid digestion."
+FACT-0676,Germany,Selection,The 'Sanssouci Palace' in Potsdam was the summer palace of Frederick the Great and is a masterpiece of Rococo architecture.
+FACT-0677,Japan,Commonality,"The 'Yukata' is a casual, summer version of the kimono, frequently worn at festivals and traditional inns (ryokan)."
+FACT-0678,India,Action,"In India, many Hindus observe 'Fast' (Vrat) on specific days of the week or during festivals for spiritual purification."
+FACT-0679,Canada,Commonality,'Poutine' was created in the 1950s in rural Quebec and has since become a recognized symbol of Canadian culinary culture.
+FACT-0680,Australia,Feature,"The 'Wombat' is a stout, burrowing marsupial native to Australia, famous for producing cube-shaped droppings."
+FACT-0681,US,Quantitative,The 'Poverty Line' in the US is a federal measure used to determine eligibility for various government subsidies and programs.
+FACT-0682,UK,Selection,"'Giant's Causeway' in Northern Ireland consists of about 40,000 interlocking basalt columns caused by ancient volcanic activity."
+FACT-0683,China,Action,"In China, elderly people often play 'Mahjong' in community centers or parks as a way to socialize and keep the mind sharp."
+FACT-0684,Iran,Feature,"The 'Kamancheh' is a Persian bowed string instrument, a precursor to the modern violin and central to classical music."
+FACT-0685,France,Feature,The 'Triumphal Arch' (Arc de Triomphe) honors those who fought and died for France in the Revolutionary and Napoleonic Wars.
+FACT-0686,Germany,Commonality,"The 'Currywurst' is a fast-food icon in Berlin, consisting of steamed then fried pork sausage seasoned with curry ketchup."
+FACT-0687,Japan,Feature,"The 'Kano School' was one of the most famous schools of Japanese painting, spanning over 400 years from the 15th century."
+FACT-0688,India,Selection,The 'Sun Temple' in Konark is a 13th-century temple designed as a gargantuan chariot with 24 carved stone wheels.
+FACT-0689,Canada,Action,"In Canada, many people volunteer for 'The Terry Fox Run' to raise money for cancer research in honor of the national hero."
+FACT-0690,Australia,Action,"In Australia, it is common to sit in the front seat of a taxi if you are traveling alone to indicate egalitarianism."
+FACT-0691,US,Commonality,The 'Sunday Comics' (or funny pages) have been a long-standing tradition in American newspapers for over a century.
+FACT-0692,UK,Quantitative,"The UK is the world's largest consumer of tea per capita, with the beverage integrated into almost every social scenario."
+FACT-0693,China,Superlative,The 'Three Gorges Dam' on the Yangtze River is the world's largest power station in terms of installed capacity.
+FACT-0694,Iran,Selection,The 'Shushtar Historical Hydrographic System' is a UNESCO site featuring ancient mills and waterfalls for water management.
+FACT-0695,France,Selection,The 'Lascaux Caves' in southwestern France contain some of the most famous Upper Paleolithic cave paintings in the world.
+FACT-0696,Germany,Feature,The 'Reichstag Building' in Berlin features a modern glass dome that allows visitors to look down into the legislative chamber.
+FACT-0697,Japan,Action,"In Japan, it is considered polite to use a 'tray' to provide or receive money when making a purchase in a shop."
+FACT-0698,India,Commonality,"The 'Lungi' is a traditional garment worn around the waist by men in southern and eastern India, often in hot climates."
+FACT-0699,Canada,Selection,The 'Rideau Canal' in Ottawa becomes the world's largest naturally frozen skating rink during the winter months.
+FACT-0700,Australia,Superlative,'Kangaroo Island' is Australia's third-largest island and a sanctuary for native wildlife like koalas and sea lions.
+FACT-0701,US,Feature,"The 'Route 66' highway was one of the original highways in the US, becoming a symbol of American mobility and culture."
+FACT-0702,UK,Action,"In the UK, it is traditional to eat 'Pancakes' on Shrove Tuesday, often called 'Pancake Day' across the country."
+FACT-0703,China,Commonality,"The 'Cormorant Fishing' method, where birds are used to catch fish, is a traditional practice still found in parts of Guangxi."
+FACT-0704,Iran,Action,"In Iran, it is common to give 'Eidi' (gifts of new banknotes) to children and younger relatives during Nowruz."
+FACT-0705,France,Commonality,The 'Ratatouille' is a traditional Provençal stewed vegetable dish that originated in Nice.
+FACT-0706,Germany,Quantitative,"Germany is the world leader in 'Wind Energy' production within the European Union, a key part of its 'Energiewende' policy."
+FACT-0707,Japan,Selection,The 'Kamakura' period is known for the rise of the samurai class and the spread of Zen Buddhism throughout Japan.
+FACT-0708,India,Feature,"The 'Tabla' is a pair of twin hand drums from the Indian subcontinent, used in Hindustani classical music and beyond."
+FACT-0709,Canada,Commonality,The 'Hudson's Bay Company' is the oldest incorporated joint-stock merchandising company in the English-speaking world.
+FACT-0710,Australia,Commonality,"'Anzac Biscuits' are sweet biscuits popular in Australia and New Zealand, associated with the Army Corps (ANZAC)."
+FACT-0711,US,Action,"During 'Halloween,' it is common for American homeowners to decorate their front yards with carved pumpkins (Jack-o'-lanterns)."
+FACT-0712,UK,Feature,The 'Royal Albert Hall' in London is a world-famous concert hall that hosts the annual BBC Proms.
+FACT-0713,China,Selection,"The 'Yellow Mountains' (Huangshan) are famous for their scenery, sunsets, peculiarly shaped granite peaks, and pine trees."
+FACT-0714,Iran,Commonality,"'Ash Reshteh' is a thick Persian soup with noodles, beans, and herbs, traditionally served during celebrations."
+FACT-0715,France,Superlative,The 'Palace of Fontainebleau' served as a residence for French monarchs from Louis VII to Napoleon III.
+FACT-0716,Germany,Selection,"The 'Zugspitze' is the highest mountain in Germany, located in the Bavarian Alps on the border with Austria."
+FACT-0717,Japan,Action,"In Japan, many people wear 'Kimono' or 'Yukata' when attending traditional summer festivals (Matsuri)."
+FACT-0718,India,Selection,The 'Victoria Memorial' in Kolkata is a large marble building dedicated to the memory of Queen Victoria.
+FACT-0719,Canada,Feature,"The 'Canada Goose' is a large wild goose species with a black head and neck, widely recognized as a symbol of Canada."
+FACT-0720,Australia,Quantitative,"Australia has over 10,000 beaches; it would take over 27 years to visit a new one every day."
+FACT-0721,US,Commonality,"The 'Dime' is a ten-cent coin in the US, featuring the profile of President Franklin D. Roosevelt."
+FACT-0722,UK,Selection,"The 'Orkney Islands' in Scotland are home to the 'Heart of Neolithic Orkney,' a UNESCO site with ancient stone circles."
+FACT-0723,China,Feature,"The 'Guzheng' is a traditional Chinese zither with a history of more than 2,500 years."
+FACT-0724,Iran,Feature,"The 'Minaret of Jam' is technically in Afghanistan, but its architectural style was heavily influenced by Persian Seljuk designs."
+FACT-0725,France,Action,"In France, it is customary to keep both hands on the table during a meal, rather than resting one in the lap."
+FACT-0726,Germany,Commonality,'Apfelschorle' is a popular German drink consisting of carbonated mineral water and apple juice.
+FACT-0727,Japan,Commonality,The 'Maneki-neko' (Beckoning Cat) is a common Japanese figurine believed to bring good luck and fortune to owners.
+FACT-0728,India,Action,"In India, many people apply a 'Tilak' (a mark of vermilion or sandalwood paste) on the forehead for religious ceremonies."
+FACT-0729,Canada,Commonality,"The 'Maple Leaf Rag' by Scott Joplin, though American, became a staple of early 20th-century music in Canada."
+FACT-0730,Australia,Feature,"The 'Quokka' is a small macropod native to Rottnest Island, famous for its 'smiley' appearance in photos."
+FACT-0731,US,Superlative,The 'Library of Congress' in Washington D.C. is the largest library in the world by shelf space and number of books.
+FACT-0732,UK,Action,"In the UK, it is common to hear the phrase 'Bob's your uncle' to mean 'and there you have it' or 'it's done'."
+FACT-0733,China,Quantitative,"China produces more 'Tobacco' than any other country in the world, with a large domestic smoking population."
+FACT-0734,Iran,Commonality,"'Abgoosht' (or Dizi) is a traditional Persian stew made with lamb, chickpeas, white beans, and potatoes."
+FACT-0735,France,Selection,The 'Chartres Cathedral' is a UNESCO World Heritage site and a high point of French Gothic art and architecture.
+FACT-0736,Germany,Action,"In Germany, it is common to celebrate 'Polterabend,' where guests break porcelain to bring luck to a marrying couple."
+FACT-0737,Japan,Superlative,The 'Daibutsu' (Great Buddha) of Nara is one of the largest bronze statues of the Buddha in the world.
+FACT-0738,India,Feature,"The 'Kathak' is one of the eight major forms of Indian classical dance, originating from nomadic bards of northern India."
+FACT-0739,Canada,Feature,"The 'Bluenose' was a famous Canadian racing and fishing schooner, now featured on the Canadian ten-cent coin."
+FACT-0740,Australia,Selection,"The 'Ningaloo Reef' in Western Australia is one of the world's largest fringing coral reefs, accessible from the beach."
+FACT-0741,US,Selection,"'The Alamo' in San Antonio, Texas, is a historic mission and fortress that symbolizes the Texas Revolution."
+FACT-0742,UK,Commonality,"The 'Red Bus' in London is often a 'New Routemaster,' a modern version of the classic 1950s design."
+FACT-0743,China,Action,"In China, it is common for people to practice 'Calligraphy' with water on stone tiles in public parks."
+FACT-0744,Iran,Feature,The 'Naqsh-e Jahan Square' in Isfahan is one of the largest city squares in the world and a UNESCO site.
+FACT-0745,France,Commonality,The 'Bouillabaisse' is a traditional Provençal fish stew originating from the port city of Marseille.
+FACT-0746,Germany,Quantitative,"Germany is the birthplace of the 'Printing Press,' invented by Johannes Gutenberg in the 15th century."
+FACT-0747,Japan,Selection,"The 'Tokugawa Shogunate' was the last feudal Japanese military government, which ruled from 1603 to 1867."
+FACT-0748,India,Commonality,"The 'Tiffin' is a light meal or snack, particularly one eaten at midday, very common in Indian office culture."
+FACT-0749,Canada,Quantitative,"Canada has more 'Lakes' than the rest of the world combined, with over 2 million lakes in total."
+FACT-0750,Australia,Action,"In Australia, it is common to call a 'Self-Service Laundry' a 'Laundromat,' similar to US English."
+FACT-0751,US,Action,"In the US, it is customary to stand for the 'Seventh-Inning Stretch' during a baseball game and sing 'Take Me Out to the Ball Game'."
+FACT-0752,UK,Feature,"The 'Stone of Destiny' is an ancient symbol of Scotland's monarchy, used for centuries in the coronation of its kings."
+FACT-0753,China,Selection,"The 'Jiuzhaigou Valley' is a nature reserve in Sichuan known for its multi-level waterfalls, colorful lakes, and snow-capped peaks."
+FACT-0754,Iran,Commonality,"The 'Korsi' is a traditional low table with a heater underneath and blankets thrown over it, used for family gatherings in winter."
+FACT-0755,France,Action,"In France, it is considered polite to say 'Au Revoir' (Goodbye) when leaving a shop or restaurant, just as it is to say 'Bonjour' when entering."
+FACT-0756,Germany,Quantitative,"Germany has over 25,000 castles scattered across the country, ranging from preserved ruins to fully functional hotels."
+FACT-0757,Japan,Feature,"The 'Koinobori' are carp-shaped wind socks flown in Japan to celebrate Children's Day, symbolizing strength and success."
+FACT-0758,India,Superlative,"The 'Mawsynram' village in Meghalaya is reportedly the wettest place on Earth, receiving the highest average annual rainfall."
+FACT-0759,Canada,Commonality,The 'Terry Fox Run' is an annual non-competitive charity event held in numerous countries in honor of Canadian cancer activist Terry Fox.
+FACT-0760,Australia,Selection,The 'Twelve Apostles' are a collection of limestone stacks off the shore of Port Campbell National Park in Victoria.
+FACT-0761,US,Feature,The 'Hoover Dam' on the border of Nevada and Arizona is a massive concrete arch-gravity dam built during the Great Depression.
+FACT-0762,UK,Action,"In the UK, it is traditional to eat 'Christmas Pudding' on December 25th, often served with brandy butter or custard."
+FACT-0763,China,Commonality,"The 'Jade' stone is highly prized in China, symbolizing purity, moral integrity, and eternal life."
+FACT-0764,Iran,Selection,"The 'Bisotun Inscription' is a multi-lingual inscription located on Mount Bisotun, crucial to deciphering cuneiform script."
+FACT-0765,France,Feature,The 'Minitel' was a videotex online service accessible through phone lines that was a successful precursor to the World Wide Web in France.
+FACT-0766,Germany,Commonality,"The 'Wanderlust' concept originated in Germany, describing a strong desire or impulse to wander or travel and explore the world."
+FACT-0767,Japan,Action,"In Japan, it is common to provide 'Omiyage' (souvenirs), typically regional food snacks, to coworkers after returning from a trip."
+FACT-0768,India,Feature,The 'Ayurveda' is an ancient system of medicine that remains a mainstream form of healthcare for millions of people in India.
+FACT-0769,Canada,Action,"In Canada, it is a common courtesy to 'hold the elevator' if you see someone approaching, even if you are in a rush."
+FACT-0770,Australia,Quantitative,"Australia is home to the world's longest fence, the 'Dingo Fence,' which stretches over 5,600 kilometers to keep dingoes away from sheep."
+FACT-0771,US,Commonality,"The 'Drive-in Theater' was a popular American cultural fixture in the mid-20th century, where movies were viewed from cars."
+FACT-0772,UK,Superlative,The 'University of Cambridge' is the world's third-oldest surviving university and has produced more Nobel Prize winners than any other.
+FACT-0773,China,Action,"In China, it is traditional to perform the 'Lion Dance' during festivals to bring good luck and drive away evil spirits."
+FACT-0774,Iran,Feature,"The 'Setar' is a Persian lute-style instrument with four strings, typically played with the index finger's nail."
+FACT-0775,France,Selection,"The 'Mont Blanc' in the French Alps is the highest mountain in Western Europe, attracting climbers and skiers from around the world."
+FACT-0776,Germany,Feature,The 'Bauhaus' was a German art school operational from 1919 to 1933 that became one of the most influential currents in modern design.
+FACT-0777,Japan,Commonality,"The 'Randoseru' is a firm-sided backpack made of stitched leather, traditionally used in Japan by elementary school children."
+FACT-0778,India,Selection,The 'Ajanta Caves' in Maharashtra are about 30 rock-cut Buddhist cave monuments dating from the 2nd century BCE.
+FACT-0779,Canada,Feature,The 'Royal Canadian Mint' produces all of Canada's circulation coins and often manufactures coins for other nations as well.
+FACT-0780,Australia,Commonality,The 'Bush Doof' is a type of outdoor dance party held in remote areas of the Australian outback or bushland.
+FACT-0781,US,Quantitative,"The 'US Census' is conducted every ten years, as mandated by the Constitution, to determine representation in Congress."
+FACT-0782,UK,Selection,The 'Peak District' was the first area in the UK to be designated as a National Park in 1951.
+FACT-0783,China,Feature,"The 'Erhu' is a two-stringed bowed musical instrument, sometimes known in the West as the 'Chinese violin'."
+FACT-0784,Iran,Action,"In Iran, it is common to read poetry by 'Hafez' to predict the future or seek guidance during the 'Yalda' winter solstice night."
+FACT-0785,France,Commonality,The 'Michelin Man' (Bibendum) is the iconic mascot of the French tire company Michelin and one of the world's oldest trademarks.
+FACT-0786,Germany,Action,"In Germany, it is a legal requirement in many states for children to wear helmets while cycling to school."
+FACT-0787,Japan,Selection,The 'Fushimi Inari-taisha' shrine in Kyoto is famous for its thousands of vermilion torii gates that line a network of trails.
+FACT-0788,India,Commonality,The 'Jugaad' is a colloquial Hindi word that describes an innovative fix or a frugal workaround to a problem.
+FACT-0789,Canada,Superlative,The 'Wood Buffalo National Park' in Alberta and the NWT is Canada's largest national park and the second-largest in the world.
+FACT-0790,Australia,Feature,The 'Akubra' is a world-famous Australian brand of bush hats made from rabbit fur felt.
+FACT-0791,US,Action,"In the US, it is traditional to host a 'Baby Shower' to celebrate the expected birth of a child and give gifts to the parents."
+FACT-0792,UK,Commonality,"The 'Allotment' is a plot of land rented by an individual for growing vegetables or flowers, a popular British hobby."
+FACT-0793,China,Quantitative,"China is the world's leading producer of 'Rice,' accounting for roughly 30% of global production."
+FACT-0794,Iran,Commonality,"The 'Samovar' is a metal container traditionally used to heat and boil water, a centerpiece of the Iranian tea-drinking ritual."
+FACT-0795,France,Selection,The 'Palais des Papes' (Palace of the Popes) in Avignon is one of the largest and most important medieval Gothic buildings in Europe.
+FACT-0796,Germany,Superlative,The 'Miniatur Wunderland' in Hamburg is the world's largest model railway attraction.
+FACT-0797,Japan,Feature,"The 'Daruma' doll is a hollow, round Japanese traditional doll modeled after the founder of Zen Buddhism, used for goal-setting."
+FACT-0798,India,Action,"In India, many people participate in 'Pradakshina,' the act of walking clockwise around a sacred deity or temple."
+FACT-0799,Canada,Commonality,"The 'Toque' is a knitted winter hat, often with a pom-pom on top, that is a staple of Canadian winter wear."
+FACT-0800,Australia,Selection,The 'Great Australian Bight' is a large open oceanic bay off the southern coast of Australia with spectacular limestone cliffs.
+FACT-0801,US,Commonality,The 'PB&J' (Peanut Butter and Jelly) sandwich is a staple of American childhood and a common school lunch.
+FACT-0802,UK,Feature,"The 'Beefeaters' (Yeoman Warders) are the ceremonial guardians of the Tower of London, famous for their red and gold uniforms."
+FACT-0803,China,Selection,"The 'Leshan Giant Buddha' is a 71-meter tall stone statue built during the Tang Dynasty, carved out of a cliff face."
+FACT-0804,Iran,Action,"In Iran, it is customary to say 'Dast-e shoma dard nakone' (May your hand not ache) as a way of thanking someone for a gift or task."
+FACT-0805,France,Quantitative,"France is the home of the 'Metric System,' which was first adopted during the French Revolution in the 1790s."
+FACT-0806,Germany,Commonality,The 'Feierabendbier' is the German tradition of having a beer immediately after finishing the workday to relax.
+FACT-0807,Japan,Action,"In Japan, it is customary to provide 'Oshibori' (wet hand towels) to customers in restaurants before a meal."
+FACT-0808,India,Feature,The 'Tabla' is a pair of twin hand drums that is the most important percussion instrument in North Indian classical music.
+FACT-0809,Canada,Selection,The 'Haida Gwaii' archipelago off the coast of BC is the heart of the Haida Nation's culture and a UNESCO site.
+FACT-0810,Australia,Action,"In Australia, it is common to call a 'cool box' or portable cooler an 'Esky,' which is actually a brand name."
+FACT-0811,US,Feature,The 'Pledge of Allegiance' is an expression of allegiance to the flag of the United States and the republic.
+FACT-0812,UK,Action,"In the UK, it is traditional for the Monarch to send a 'Birthday Telegram' (now a card) to citizens who reach the age of 100."
+FACT-0813,China,Commonality,The 'Abacus' (Suanpan) was the primary calculating tool in China for centuries before the advent of electronic calculators.
+FACT-0814,Iran,Feature,"The 'Givah' is a traditional Iranian soft, comfortable, and breathable footwear, usually handmade with cotton and leather."
+FACT-0815,France,Selection,The 'Gorges du Verdon' in southeastern France is a river canyon often considered one of Europe's most beautiful.
+FACT-0816,Germany,Feature,"The 'Ampelmännchen' is the iconic figure found on pedestrian traffic lights in the former East Germany, now a cult symbol."
+FACT-0817,Japan,Quantitative,"Japan has over 1,500 'Earthquakes' a year, though the vast majority are minor tremors that cause no damage."
+FACT-0818,India,Commonality,"The 'Dhoti' is a traditional unstitched garment worn by men in India, particularly in rural areas and during religious ceremonies."
+FACT-0819,Canada,Action,"In Canada, many communities host 'Fall Fairs' featuring agricultural competitions, midway rides, and local crafts."
+FACT-0820,Australia,Superlative,"The 'Royal Flying Doctor Service' is the world's first and largest aeromedical organization, serving remote parts of Australia."
+FACT-0821,US,Selection,The 'French Quarter' in New Orleans is the oldest neighborhood in the city and a National Historic Landmark.
+FACT-0822,UK,Commonality,The 'Pantomime' (or Panto) is a traditional British musical comedy stage production designed for family entertainment during Christmas.
+FACT-0823,China,Feature,The 'Bian Lian' (Face Changing) is an ancient Chinese dramatic art that is part of the general Sichuan opera.
+FACT-0824,Iran,Selection,"The 'Arg-e Bam' was the largest adobe building in the world, located in Bam, before being heavily damaged by an earthquake in 2003."
+FACT-0825,France,Action,"In France, it is common to eat 'Yogurt' as a standard dessert at the end of a casual lunch or dinner."
+FACT-0826,Germany,Quantitative,Germany has the world's fourth-largest economy by nominal GDP and is the largest in Europe.
+FACT-0827,Japan,Commonality,"The 'Noren' is a traditional Japanese fabric divider hung in doorways or windows, often displaying a shop's logo."
+FACT-0828,India,Action,"In India, it is common to see 'Rangoli' patterns made of colored powder or rice at the entrance of homes during Diwali."
+FACT-0829,Canada,Feature,The 'Maple Leaf' on the Canadian flag was specifically designed with eleven points so that it would be clearly identifiable in high winds.
+FACT-0830,Australia,Feature,"The 'Wombat' is a stout, burrowing marsupial native to Australia, known for its unique cube-shaped droppings."
+FACT-0831,US,Superlative,The 'Statue of Liberty' was the tallest iron structure in the world when it was completed in 1886.
+FACT-0832,UK,Action,"In the UK, it is common for people to say 'Cheers' to mean 'Thank you' or 'Goodbye' in casual settings."
+FACT-0833,China,Commonality,"The 'Red Lantern' is a traditional Chinese decoration used to symbolize joy, fortune, and celebration."
+FACT-0834,Iran,Feature,"The 'Tonbak' is the principal percussion instrument of Persian classical music, a goblet-shaped drum held horizontally."
+FACT-0835,France,Selection,"The 'Canal du Midi' is a 240 km long canal in Southern France, considered one of the greatest engineering feats of the 17th century."
+FACT-0836,Germany,Commonality,The 'Kaffee und Kuchen' (Coffee and Cake) tradition is a social ritual often enjoyed on Sunday afternoons with family.
+FACT-0837,Japan,Selection,"The 'Gion District' in Kyoto is the most famous district for Geisha culture, featuring traditional wooden machiya merchant houses."
+FACT-0838,India,Quantitative,"India has the world's largest 'Post Office' network, with more than 155,000 branches serving the entire country."
+FACT-0839,Canada,Commonality,"The 'Caesar' cocktail, made with vodka and Clamato juice, was invented in Calgary in 1969 and is considered Canada's national drink."
+FACT-0840,Australia,Selection,The 'Barossa Valley' in South Australia is one of the world's oldest and finest wine-producing regions.
+FACT-0841,US,Action,"In the US, it is customary to stand and remove your hat for 'The Star-Spangled Banner' before the start of sporting events."
+FACT-0842,UK,Commonality,"The 'Sunday Roast' is a staple British meal, typically consisting of roasted meat, potatoes, Yorkshire pudding, and gravy."
+FACT-0843,China,Feature,The 'Pipa' is a four-stringed Chinese musical instrument belonging to the plucked category of instruments.
+FACT-0844,Iran,Selection,The 'Arg-e Rayen' is an adobe castle in Kerman province that remains remarkably well-preserved despite its ancient age.
+FACT-0845,France,Superlative,The 'Louvre' in Paris is the world's most visited museum and houses thousands of works including the Mona Lisa.
+FACT-0846,Germany,Action,"In Germany, it is considered very important to maintain eye contact when clinking glasses and saying 'Prost'."
+FACT-0847,Japan,Commonality,'Omiyage' are souvenirs (usually food) that Japanese people buy for friends and colleagues after a trip.
+FACT-0848,India,Feature,The 'Peacock' is the national bird of India and has been a significant motif in Indian art and folklore for centuries.
+FACT-0849,Canada,Quantitative,Canada has more lakes than the rest of the world's lakes combined.
+FACT-0850,Australia,Action,"In Australia, it is a common courtesy to 'bring a plate' (provide a dish of food) when invited to a barbecue."
+FACT-0851,US,Selection,The 'Everglades' in Florida is the largest subtropical wilderness in the United States and a UNESCO World Heritage site.
+FACT-0852,UK,Quantitative,"The UK consists of four distinct countries: England, Scotland, Wales, and Northern Ireland."
+FACT-0853,China,Action,"In China, the color red is widely used for weddings and festivals as it represents luck, joy, and prosperity."
+FACT-0854,Iran,Commonality,"'Doogh' is a popular Persian savory yogurt-based beverage, often flavored with mint or rose petals."
+FACT-0855,France,Feature,The 'Baguette' is a long thin loaf of French bread that is legally protected regarding its traditional ingredients.
+FACT-0856,Germany,Feature,"The 'Ampelmännchen' is the iconic figure on pedestrian traffic lights in the former East Germany, now a cult symbol."
+FACT-0857,Japan,Superlative,The 'Shinkansen' (Bullet Train) is world-famous for its incredible record of safety and punctuality.
+FACT-0858,India,Action,"In India, removing shoes before entering a temple or someone's home is a mandatory sign of respect."
+FACT-0859,Canada,Feature,The 'Maple Leaf' on the Canadian flag has 11 points and was officially adopted in 1965.
+FACT-0860,Australia,Commonality,'Vegemite' is a dark brown food spread made from yeast extract and is a staple of the Australian diet.
+FACT-0861,US,Quantitative,The US is the only country in the world that uses the 'Imperial System' of measurement for almost all daily tasks.
+FACT-0862,UK,Action,"In the UK, 'queueing' is a strictly followed social norm; jumping a line is considered extremely offensive."
+FACT-0863,China,Superlative,"The 'Great Wall of China' is the longest man-made structure in the world, stretching over 13,000 miles."
+FACT-0864,Iran,Feature,The 'Badgir' (Windcatcher) is a traditional Persian architectural element used to create natural ventilation in buildings.
+FACT-0865,France,Selection,The 'French Riviera' (Côte d'Azur) is the Mediterranean coastline of the southeast corner of France.
+FACT-0866,Germany,Commonality,The 'Schultüte' is a large cone filled with sweets and toys given to children on their first day of school.
+FACT-0867,Japan,Action,"In Japan, it is common to say 'Itadakimasu' (I humbly receive) before eating to show gratitude for the food."
+FACT-0868,India,Selection,The 'Taj Mahal' in Agra is a white marble mausoleum and one of the New Seven Wonders of the World.
+FACT-0869,Canada,Action,"In Canada, it is traditional to wear a red poppy on Remembrance Day (Nov 11) to honor military veterans."
+FACT-0870,Australia,Feature,The 'Sydney Opera House' is one of the 20th century's most distinctive buildings and a UNESCO site.
+FACT-0871,US,Commonality,'Tailgating' involves hosting a social gathering around the open tailgate of a vehicle before a sports game.
+FACT-0872,UK,Feature,'Big Ben' is the nickname for the Great Bell of the striking clock at the north end of the Palace of Westminster.
+FACT-0873,China,Commonality,'Tai Chi' is a common morning exercise practiced by people of all ages in public parks across China.
+FACT-0874,Iran,Action,"In Iran, the 'Taarof' system is a complex etiquette of politeness where people may refuse an offer several times."
+FACT-0875,France,Quantitative,France is the most visited country in the world by international tourists annually.
+FACT-0876,Germany,Selection,The 'Autobahn' is the federal highway system in Germany famous for having no speed limits on certain sections.
+FACT-0877,Japan,Feature,The 'Torii' is a traditional Japanese gate most commonly found at the entrance of a Shinto shrine.
+FACT-0878,India,Commonality,"'Cricket' is the most popular sport in India, often reaching the status of a religion for its fans."
+FACT-0879,Canada,Superlative,The 'Rideau Canal' in Ottawa is the world's largest naturally frozen skating rink during winter.
+FACT-0880,Australia,Quantitative,Australia is the only country in the world that is also a continent.
+FACT-0881,US,Feature,The 'Statue of Liberty' was a gift from the people of France to the US to celebrate the centennial of independence.
+FACT-0882,UK,Selection,The 'Cotswolds' is a region in central England known for its rolling hills and honey-colored stone villages.
+FACT-0883,China,Quantitative,"China has the world's largest high-speed rail network, exceeding 40,000 kilometers in length."
+FACT-0884,Iran,Superlative,The 'Lut Desert' in Iran has recorded some of the highest land surface temperatures on Earth.
+FACT-0885,France,Action,"In France, dinner is typically served later than in North America, usually starting around 8:00 PM."
+FACT-0886,Germany,Quantitative,"The legal drinking age for beer and wine in Germany is 16, while for spirits it is 18."
+FACT-0887,Japan,Selection,"The 'Akihabara' district in Tokyo is the world-famous center for electronics, anime, and manga culture."
+FACT-0888,India,Feature,The 'Bengal Tiger' is the national animal of India and is a symbol of strength and agility.
+FACT-0889,Canada,Commonality,'Poutine' (fries with cheese curds and gravy) is a classic Canadian dish that originated in Quebec.
+FACT-0890,Australia,Selection,"The 'Outback' refers to the vast, remote, and arid interior of the Australian continent."
+FACT-0891,US,Action,"On the 'Fourth of July,' Americans celebrate Independence Day with fireworks, parades, and family barbecues."
+FACT-0892,UK,Superlative,The 'British Museum' in London was the first public national museum in the world.
+FACT-0893,China,Feature,The 'Giant Panda' is considered a national treasure in China and is a symbol of wildlife conservation.
+FACT-0894,Iran,Selection,"The city of 'Isfahan' is famous for its Islamic architecture, particularly the Naqsh-e Jahan Square."
+FACT-0895,France,Commonality,The 'Apéritif' is a social ritual in France where people meet for drinks and light snacks before dinner.
+FACT-0896,Germany,Feature,The 'Brandenburg Gate' in Berlin is a 18th-century monument and a symbol of German reunification.
+FACT-0897,Japan,Action,"In Japan, it is considered polite to slurps noodles, as it signifies that the meal is being enjoyed."
+FACT-0898,India,Quantitative,"India is the world's largest producer of spices, accounting for about 75% of global production."
+FACT-0899,Canada,Selection,The 'Calgary Stampede' is one of the world's largest rodeos and a major celebration of Western culture.
+FACT-0900,Australia,Feature,The 'Kangaroo' is the national animal of Australia and appears on the country’s coat of arms.
+FACT-0901,US,Selection,The 'Grand Canyon' in Arizona is one of the world's most famous natural wonders.
+FACT-0902,UK,Commonality,'Afternoon Tea' (tea with scones and sandwiches) is a quintessential British social tradition.
+FACT-0903,China,Action,"During the 'Mid-Autumn Festival,' Chinese families gather to eat Mooncakes and watch the full moon."
+FACT-0904,Iran,Commonality,'Persian Carpets' are world-renowned for their intricate designs and high-quality hand-knotting.
+FACT-0905,France,Selection,The 'Palace of Versailles' was the principal residence of the Kings of France from Louis XIV to Louis XVI.
+FACT-0906,Germany,Superlative,The 'Oktoberfest' in Munich is the largest beer festival in the world.
+FACT-0907,Japan,Commonality,'Konbini' (convenience stores) in Japan are open 24/7 and offer high-quality fresh meals.
+FACT-0908,India,Feature,The 'Ganges' (Ganga) is the most sacred river in India and central to Hindu religious life.
+FACT-0909,Canada,Quantitative,Canada has the longest coastline of any country in the world.
+FACT-0910,Australia,Action,"In Australia, it is common to call a friend 'mate' as a sign of equality and friendship."
+FACT-0911,US,Feature,The 'Bald Eagle' is the national bird and symbol of the United States.
+FACT-0912,UK,Action,"In the UK, it is traditional to say 'Cheers' not only as a toast but also to mean 'Thank you'."
+FACT-0913,China,Selection,The 'Forbidden City' in Beijing was the imperial palace of the Ming and Qing dynasties.
+FACT-0914,Iran,Feature,The 'Qanat' is an ancient system of underground channels used to transport water in arid regions.
+FACT-0915,France,Feature,The 'Eiffel Tower' was built for the 1889 World's Fair and was initially criticized by Paris's artists.
+FACT-0916,Germany,Action,"In Germany, it is considered bad luck to wish someone a 'Happy Birthday' before the actual day."
+FACT-0917,Japan,Feature,"The 'Kimono' is the traditional national garment of Japan, now mostly worn for formal occasions."
+FACT-0918,India,Action,"In India, 'Holi' is the festival of colors where people throw colored powder to celebrate spring."
+FACT-0919,Canada,Feature,The 'RCMP' (Mounties) are the national police force and a recognizable symbol of Canada.
+FACT-0920,Australia,Superlative,The 'Great Barrier Reef' is the world's largest coral reef system.
+FACT-0921,US,Commonality,'Black Friday' is the day after Thanksgiving and marks the beginning of the Christmas shopping season.
+FACT-0922,UK,Feature,The 'Double-decker Bus' (especially red ones) is an iconic symbol of London's transport.
+FACT-0923,China,Commonality,The use of 'Chopsticks' for eating originated in ancient China and has spread throughout East Asia.
+FACT-0924,Iran,Action,"In Iran, the solar 'Nowruz' (New Year) is celebrated on the first day of spring."
+FACT-0925,France,Superlative,The 'Michelin Guide' for restaurants originated in France and is the highest authority on fine dining.
+FACT-0926,Germany,Commonality,The 'Christmas Market' (Weihnachtsmarkt) is a beloved German tradition dating back to the Middle Ages.
+FACT-0927,Japan,Selection,The 'Gion' district in Kyoto is famous as the primary home of geisha and traditional tea houses.
+FACT-0928,India,Selection,The 'Golden Temple' in Amritsar is the holiest shrine of the Sikh religion.
+FACT-0929,Canada,Commonality,'Ice Hockey' is the national winter sport of Canada and a major part of the country's identity.
+FACT-0930,Australia,Feature,The 'Didgeridoo' is a traditional wind instrument developed by Indigenous Australians.
+FACT-0931,US,Superlative,The 'Smithsonian Institution' in Washington D.C. is the largest museum and research complex in the world.
+FACT-0932,UK,Selection,The 'Tower of London' is a historic castle that houses the Crown Jewels of the United Kingdom.
+FACT-0933,China,Feature,The 'Terracotta Army' in Xi'an is a collection of thousands of life-sized clay soldiers from the 3rd century BCE.
+FACT-0934,Iran,Quantitative,Iran accounts for over 90% of the world's 'Saffron' production.
+FACT-0935,France,Action,"In France, it is common to greet friends with 'la bise' (kisses on the cheeks)."
+FACT-0936,Germany,Feature,The 'Trabi' (Trabant) was the most common vehicle in East Germany and is now a nostalgic icon.
+FACT-0937,Japan,Action,"In Japan, many people wear surgical masks in public to prevent spreading illness or for allergies."
+FACT-0938,India,Commonality,The 'Namaste' greeting (palms together) is the traditional way to show respect in India.
+FACT-0939,Canada,Feature,The 'Beaver' is the national animal of Canada and appears on the five-cent coin.
+FACT-0940,Australia,Commonality,The 'Aussie Salute' is a humorous term for the flicking of one's hand near the face to ward off bush flies.
+FACT-0941,US,Action,"During 'Thanksgiving,' many Americans participate in 'Turkey Trots,' which are fun runs or footraces held on the morning of the holiday."
+FACT-0942,UK,Commonality,"'Pub Culture' in the UK is about more than drinking; pubs serve as community hubs for socializing, eating, and playing games like darts."
+FACT-0943,China,Selection,The 'Bund' in Shanghai is a famous waterfront area that showcases colonial-era buildings alongside a futuristic skyline.
+FACT-0944,Iran,Commonality,"'Sohan' is a traditional Persian saffron brittle toffee made in the city of Qom, often flavored with pistachios."
+FACT-0945,France,Action,"In France, it is traditional to bring a small gift like flowers or high-quality chocolates when invited to someone's home for dinner."
+FACT-0946,Germany,Commonality,'Feierabend' is a German concept referring to the time of day when work stops and personal relaxation or 'evening rest' begins.
+FACT-0947,Japan,Feature,"The 'Kotatsu' is a low wooden table frame covered by a heavy blanket with a heater underneath, used for warmth in winter."
+FACT-0948,India,Selection,"The 'Ellora Caves' in Maharashtra feature the Kailasa temple, the largest monolithic rock-cut structure in the world."
+FACT-0949,Canada,Commonality,"'BeaverTails' are a popular Canadian fried dough pastry, shaped like a beaver's tail and topped with various sweets."
+FACT-0950,Australia,Feature,The 'Platypus' is a unique egg-laying mammal native to eastern Australia and is one of the few venomous mammals.
+FACT-0951,US,Quantitative,"The US has the largest 'National Park' system in the world, protecting over 84 million acres of land."
+FACT-0952,UK,Feature,The 'White Cliffs of Dover' are iconic chalk cliffs that symbolize the English coastline facing the Strait of Dover.
+FACT-0953,China,Action,"In China, it is common to see 'Square Dancing' (Guangchangwu) in public parks, where groups of people exercise to music."
+FACT-0954,Iran,Selection,The 'Jameh Mosque of Isfahan' is a UNESCO site that showcases 12 centuries of Islamic architectural evolution in one complex.
+FACT-0955,France,Commonality,"The 'Croque Monsieur' is a classic French hot sandwich made with ham and cheese, often topped with Béchamel sauce."
+FACT-0956,Germany,Action,"In Germany, it is a tradition for people to 'Polterabend' (break porcelain) the night before a wedding to bring the couple luck."
+FACT-0957,Japan,Superlative,Mount Fuji is the highest mountain in Japan and has been a sacred site and source of artistic inspiration for centuries.
+FACT-0958,India,Commonality,The 'Auto-rickshaw' is a common three-wheeled motor vehicle used as a taxi in almost every Indian city.
+FACT-0959,Canada,Selection,The 'Bay of Fundy' between New Brunswick and Nova Scotia has the highest tidal range in the world.
+FACT-0960,Australia,Quantitative,"Australia has the world's longest 'Dingo Fence,' which stretches over 5,600 kilometers across the continent."
+FACT-0961,US,Feature,The 'Yellow School Bus' is a standardized icon of the American education system used for student transport.
+FACT-0962,UK,Action,"In the UK, it is traditional to leave a 'tip' of 10-12% in restaurants if a service charge is not already included."
+FACT-0963,China,Commonality,"The 'Dragon' is a symbol of power, strength, and good luck in Chinese culture, traditionally associated with the Emperor."
+FACT-0964,Iran,Action,"During 'Sizdah Bedar,' Iranians spend the 13th day of the New Year outdoors to commune with nature and avoid bad luck."
+FACT-0965,France,Selection,"The 'Mont Saint-Michel' is a tidal island and UNESCO site in Normandy, topped by a medieval Benedictine abbey."
+FACT-0966,Germany,Feature,The 'Lederhosen' are traditional leather breeches worn by men in Bavaria and are a symbol of German folk culture.
+FACT-0967,Japan,Commonality,'Pachinko' is a popular Japanese mechanical game used for both recreational gaming and as a form of gambling.
+FACT-0968,India,Feature,The 'Saree' is a traditional garment that can be draped in over 80 different ways depending on the region of India.
+FACT-0969,Canada,Commonality,"The 'Loonie' ($1 coin) is named after the common loon, a water bird that is a symbol of the Canadian wilderness."
+FACT-0970,Australia,Selection,"The 'Great Ocean Road' in Victoria is the world's largest war memorial, built by returned soldiers after WWI."
+FACT-0971,US,Action,"On 'Halloween,' American children go 'Trick-or-Treating' from house to house in costumes to collect candy."
+FACT-0972,UK,Commonality,The 'Highland Games' are events held throughout the summer in Scotland to celebrate Scottish and Celtic culture.
+FACT-0973,China,Feature,"The 'Guzheng' is a traditional Chinese zither with a history of more than 2,500 years and is still popular today."
+FACT-0974,Iran,Commonality,'Kashk-e Bademjan' is a popular Persian appetizer made from fried eggplant and kashk (fermented yogurt whey).
+FACT-0975,France,Quantitative,"France produces over 1,600 distinct types of cheese, categorized by their production methods and region."
+FACT-0976,Germany,Selection,The 'Romantic Road' is a famous tourist route through Bavaria featuring medieval towns and fairy-tale castles.
+FACT-0977,Japan,Action,"In Japan, it is customary to exchange business cards (Meishi) with a slight bow, using both hands to present the card."
+FACT-0978,India,Superlative,"The 'Kumbh Mela' is the largest peaceful gathering in the world, where millions of people bathe in sacred rivers."
+FACT-0979,Canada,Feature,The 'Inuksuk' is a stone landmark used by the Inuit and other Arctic peoples as a point of reference or marker.
+FACT-0980,Australia,Commonality,"The 'Barbecue' (Barbie) is a central social ritual in Australia, often held in public parks using free electric grills."
+FACT-0981,US,Selection,"The 'Hollywood Walk of Fame' in Los Angeles features over 2,700 stars embedded in the sidewalks to honor entertainers."
+FACT-0982,UK,Quantitative,"The 'London Underground' is the oldest underground railway network in the world, having opened in 1863."
+FACT-0983,China,Action,"In China, it is common to offer and receive items, especially gifts or money, with both hands as a sign of respect."
+FACT-0984,Iran,Feature,"The 'Minaret of Jam' is a UNESCO site that, while in Afghanistan, represents the peak of Perso-Islamic architecture of that era."
+FACT-0985,France,Action,"In France, it is common to have a separate 'Salad Course' served after the main course to cleanse the palate."
+FACT-0986,Germany,Commonality,'Apfelschorle' is a popular German drink made by mixing carbonated mineral water with apple juice.
+FACT-0987,Japan,Selection,"The 'Itsukushima Shrine' is famous for its 'floating' torii gate, which appears to stand in the water during high tide."
+FACT-0988,India,Commonality,"The 'Bindi' is a decorative mark worn on the forehead by many Indian women, symbolizing the 'third eye' or spiritual focus."
+FACT-0989,Canada,Quantitative,Canada is home to 60% of the world's lakes and contains 20% of the world's total freshwater.
+FACT-0990,Australia,Feature,The 'Didgeridoo' is an ancient wind instrument made from hollowed-out eucalyptus branches by Indigenous Australians.
+FACT-0991,US,Superlative,The 'Grand Canyon' is a 277-mile long gorge carved by the Colorado River and is one of the Seven Natural Wonders of the World.
+FACT-0992,UK,Feature,"The 'Union Jack' is the national flag of the UK, combining the crosses of the patron saints of England, Scotland, and Ireland."
+FACT-0993,China,Superlative,The 'Three Gorges Dam' on the Yangtze River is the world's largest power station in terms of installed capacity.
+FACT-0994,Iran,Action,"In Iran, it is traditional to burn 'Esfand' (wild rue seeds) to ward off the 'evil eye' and bring good luck to a home."
+FACT-0995,France,Commonality,"The 'Beret' is a soft, round, flat-crowned hat that became a global symbol of French identity in the 19th century."
+FACT-0996,Germany,Superlative,The 'Cologne Cathedral' is the most visited landmark in Germany and a masterpiece of High Gothic architecture.
+FACT-0997,Japan,Action,"In Japan, many people visit a Shinto shrine for 'Hatsumode,' the first shrine visit of the New Year, to pray for luck."
+FACT-0998,India,Selection,The 'Hawa Mahal' (Palace of Winds) in Jaipur is a unique five-story structure with 953 small windows called jharokhas.
+FACT-0999,Canada,Feature,"The 'Beaver' became an official symbol of Canada in 1975, representing the country's early history in the fur trade."
+FACT-1000,Australia,Quantitative,"Around 85% of Australians live within 50 kilometers of the coast, making it one of the world's most coastal-dwelling nations."
+FACT-1001,US,Quantitative,"In the US, a Master's degree typically takes 2 years of full-time study to complete."
+FACT-1002,Iran,Action,"In Iran, high school final exams are usually scheduled during the 3rd month (Khordad) of the Persian calendar."
+FACT-1003,Iran,Selection,"In Iran, cafes are a common venue where individuals gather to watch sports broadcasts."
+FACT-1004,China,Quantitative,"In China, it is most common for people to have dinner at 18:00."
+FACT-1005,US,Quantitative,Children in the US generally start secondary school at the age of 11.
+FACT-1006,US,Quantitative,"The average annual tuition fee for public universities in the US is approximately $30,000."
+FACT-1007,Iran,Action,Swimming is the type of sports academy that children attend the most in Iran.
+FACT-1008,China,Commonality,Cucumber is the most popular chip and crisp flavor across China.
+FACT-1009,China,Superlative,The 2008 financial crisis is regarded as the most catastrophic economic period for China.
+FACT-1010,Iran,Action,Celebrating Independence Day is considered not-applicable in Iran as there is no specific holiday by that name.
+FACT-1011,China,Commonality,Dove is the most popular brand of chocolate throughout China.
+FACT-1012,China,Commonality,Apples are the fruit most commonly offered to tourists and visitors from abroad in China.
+FACT-1013,UK,Action,Soccer is the sport that elementary school students most frequently practice at school in the UK.
+FACT-1014,China,Action,Running is the primary sport practiced by elementary school students during school hours in China.
+FACT-1015,UK,Quantitative,"In the UK, it is a standard cultural norm for people to have dinner at 18:00."
+FACT-1016,China,Action,"In Chinese schools, the primary repercussion for bad behavior is a formal call to the student's parents."
+FACT-1017,UK,Commonality,Roast lamb is the most traditional food served during Easter celebrations in the UK.
+FACT-1018,China,Quantitative,"The typical tuition fee for a semester at a public high school in China is approximately 1,000 RMB."
+FACT-1019,China,Quantitative,A typical wedding in China is usually attended by an average of 100 people.
+FACT-1020,US,Action,"In the US, there is no specific traditional food usually prepared specifically for when a mother gives birth."
+FACT-1021,Iran,Action,Expulsion is a common repercussion used for handling bad behavior in Iranian schools.
+FACT-1022,China,Quantitative,Most people in China finish their workday at 18:00.
+FACT-1023,UK,Quantitative,"In the UK, a typical wedding ceremony is attended by an average of 100 guests."
+FACT-1024,US,Commonality,Dependent elderly individuals in the US most commonly live in assisted living facilities.
+FACT-1025,Iran,Feature,Brides in Iran typically wear a long white dress for their wedding ceremony.
+FACT-1026,UK,Quantitative,High school final exams in the UK are usually scheduled during the 5th month (May).
+FACT-1027,China,Quantitative,Vegetables are the agricultural product exported most frequently from China.
+FACT-1028,US,Selection,A church is the most popular venue for hosting wedding ceremonies in the US.
+FACT-1029,UK,Superlative,McDonald's is recognized as the cheapest fast food option available in the UK.
+FACT-1030,China,Action,Soccer has emerged as one of the fastest-growing sports in China over the last decade.
+FACT-1031,UK,Selection,The recorder is the most common musical instrument taught to primary school children in the UK.
+FACT-1032,US,Selection,Sneakers are the most common type of footwear worn by students in schools across the US.
+FACT-1033,UK,Selection,Fish and chips is the most popular comfort food eaten by people in the UK during rainy weather.
+FACT-1034,UK,Selection,Tea and coffee are the standard beverages traditionally served at funeral wakes in the UK.
+FACT-1035,US,Selection,Couples in the United States typically have an average of 2 children.
+FACT-1036,UK,Selection,Premier Inn is recognized as the most widespread and famous hotel brand in the UK.
+FACT-1037,Iran,Selection,WhatsApp is the primary digital platform used by family members in Iran to communicate remotely.
+FACT-1038,US,Selection,Thanksgiving is considered the most significant holiday for family gatherings in the United States.
+FACT-1039,UK,Selection,The knife and fork are the standard eating utensils used for almost all meals in the UK.
+FACT-1040,Iran,Selection,Younger elementary school students in Iran typically finish their school day at 12:30 PM.
+FACT-1041,US,Selection,Johns Hopkins University is the US institution most famous for its prestigious school of medicine.
+FACT-1042,China,Selection,Popcorn is the most common snack enjoyed by moviegoers in cinemas across China.
+FACT-1043,Iran,Selection,Intercity VIP buses are the most commonly used public transport for traveling between cities in Iran.
+FACT-1044,US,Selection,A Master's degree in the United States typically requires 2 years of full-time study to complete.
+FACT-1045,Iran,Selection,Chicken soup is the traditional food most commonly eaten by people in Iran to aid recovery when they are sick.
+FACT-1046,China,Selection,Golf is the sport most frequently associated with the upper class and business elite in China.
+FACT-1047,US,Selection,The marching band is the most popular music-related extracurricular activity in American high schools.
+FACT-1048,US,Selection,Coffee is the most widely consumed beverage in professional workplaces across the US.
+FACT-1049,UK,Selection,Finger sandwiches and sausage rolls are the types of food most commonly provided at funeral parlors in the UK.
+FACT-1050,UK,Selection,Hovis is one of the most iconic and popular brands of sliced bread in the UK.
+FACT-1051,US,Selection,Basketball is the sport that men in the US most commonly enjoy playing in their free time.
+FACT-1052,UK,Selection,Roast turkey is the symbolic centerpiece of the meal people in the UK eat to celebrate the New Year.
+FACT-1053,China,Selection,Japanese cuisine is the most popular international food choice in China among non-native options.
+FACT-1054,China,Selection,Ma Long is widely regarded as the most famous and decorated table tennis player in China.
+FACT-1055,UK,Selection,Football is the highest-paying professional sport for athletes in the United Kingdom.
+FACT-1056,Iran,Selection,Azadi Stadium in Tehran is the most famous and largest sports stadium in Iran.
+FACT-1057,US,Selection,Commencement is the term most commonly used for the graduation ceremony in US universities.
+FACT-1058,China,Selection,The official retirement age for male workers in China is typically 65 years old.
+FACT-1059,Iran,Selection,Turkey is the most popular international destination for Iranians traveling overseas for vacation.
+FACT-1060,Iran,Selection,The pomegranate is the most important symbolic fruit served during the Yalda Night festival in Iran.
+FACT-1061,UK,Selection,Roast turkey with all the trimmings is the traditional meal eaten on New Year's Day in the UK.
+FACT-1062,Iran,Selection,Saffron halva is a traditional sweet food commonly distributed at funerals in Iran.
+FACT-1063,US,Selection,The SAT is the most important standardized exam for high school students seeking college admission in the US.
+FACT-1064,China,Selection,CCTV-1 is the primary and most-watched national television channel in China.
+FACT-1065,Iran,Selection,Azadi Stadium is the iconic venue where the most important national sports events are held in Iran.
+FACT-1066,US,Selection,Chicken soup is the classic 'comfort food' used by Americans to treat the symptoms of the common cold.
+FACT-1067,China,Selection,Basketball is one of the most popular sports played by men in urban areas across China.
+FACT-1068,US,Selection,Ma Long is the Chinese table tennis star who is also highly recognized by sports fans in the US.
+FACT-1069,UK,Selection,Pork is the meat that is most traditionally avoided by certain religious groups in the UK.
+FACT-1070,Iran,Selection,The Tar is the most iconic traditional stringed musical instrument in Iran.
+FACT-1071,China,Selection,Specialized postpartum centers are the most common places for mothers in China to stay for recovery after childbirth.
+FACT-1072,Iran,Selection,Rice porridge is a common breakfast food eaten by people in various regions of Iran.
+FACT-1073,US,Selection,Starbucks is the most dominant and recognizable coffee chain found in the United States.
+FACT-1074,China,Selection,The pomegranate is a symbol of fertility and prosperity in traditional Chinese culture.
+FACT-1075,UK,Selection,"The peony is a highly regarded flower in the UK, often symbolizing bashfulness or a happy life."
+FACT-1076,China,Selection,Noodles are the primary staple food for people living in the northern regions of China.
+FACT-1077,UK,Selection,Potatoes are the most common staple food served with main meals in the UK.
+FACT-1078,Iran,Selection,Apples are one of the essential symbolic items placed on the Haft-sin table for the Persian New Year.
+FACT-1079,UK,Selection,Sneakers are the most common type of casual footwear worn by young people in the UK.
+FACT-1080,US,Selection,Chicken soup is the most common home remedy for a cold in the US.
+FACT-1081,US,Selection,The average retirement age for workers in the United States is approximately 60 to 65.
+FACT-1082,US,Selection,Sangak is a traditional Iranian flatbread that is also popular in Persian communities in the US.
+FACT-1083,China,Selection,Commencement ceremonies in China often feature academic dress and formal speeches by university leaders.
+FACT-1084,Iran,Selection,Walking is the most common form of daily exercise for elderly people in Iran.
+FACT-1085,US,Selection,The legal age to start full-time work in most US states is 18.
+FACT-1086,Iran,Selection,Lentil porridge is a traditional breakfast dish enjoyed in many Iranian households.
+FACT-1087,UK,Selection,The Gaokao is the most critical and high-stakes university entrance exam for students in China.
+FACT-1088,China,Selection,Congee is a popular breakfast choice across many different provinces in China.
+FACT-1089,UK,Selection,Sunflower seeds are a very common snack enjoyed by people during leisure time in China.
+FACT-1090,Iran,Selection,Football is the most popular sport watched and played by people of all ages in Iran.
+FACT-1091,Iran,Selection,Halva is the sweet most traditionally served to guests during mourning periods in Iran.
+FACT-1092,US,Selection,The handshake is the most common form of greeting in professional settings in the US.
+FACT-1093,China,Selection,Commencement is the formal event held to celebrate the completion of a degree in China.
+FACT-1094,UK,Selection,The Bird's Nest stadium in Beijing is the most famous landmark from the 2008 Olympics.
+FACT-1095,UK,Selection,Sneakers are the preferred footwear for students during physical education classes in the UK.
+FACT-1096,US,Selection,Starbucks is the most frequent choice for a quick coffee break in the US.
+FACT-1097,Iran,Selection,Chicken soup is considered the best meal for someone feeling under the weather in Iran.
+FACT-1098,US,Selection,Fish and chips is the UK's most famous culinary export found in restaurants worldwide.
+FACT-1099,Iran,Selection,Chicken soup is the go-to meal for recovery from illness in Iran.
+FACT-1100,Iran,Selection,Potatoes are a versatile staple ingredient used in many different British dishes.
+FACT-1101,Iran,Selection,Roast turkey is the traditional meat served for dinner on New Year's Eve in the UK.
+FACT-1102,Iran,Selection,The average family size in China has trended toward having 2 children in recent years.
+FACT-1103,US,Selection,The legal age for adulthood and full-time employment in the US is 18.
+FACT-1104,UK,Selection,Confucius is the philosopher whose teachings have most deeply influenced Chinese social values.
+FACT-1105,Iran,Selection,Elementary schools in Iran typically conclude their morning session around 12:30 PM.
+FACT-1106,China,Selection,Marching bands are a staple of halftime entertainment at American football games.
+FACT-1107,UK,Selection,Chicken soup is the most common food recommended for people with a fever in the UK.
+FACT-1108,Iran,Selection,Noodles are a frequent alternative to rice in many Chinese meals.
+FACT-1109,China,Selection,Japan is the country whose cuisine is most widely represented in China's international dining scene.
+FACT-1110,US,Selection,Most Master's programs in the US are designed to be completed over 2 academic years.
+FACT-1111,UK,Selection,Popcorn is the standard snack sold at every major cinema chain in the UK.
+FACT-1112,China,Selection,Tipping is generally not expected or practiced in most mainland Chinese restaurants.
+FACT-1113,China,Selection,Abraham Lincoln is one of the most respected historical figures in the US.
+FACT-1114,UK,Selection,Chicken soup is a universal remedy for the flu in the UK.
+FACT-1115,UK,Selection,Turkey is the primary meat consumed during the American Thanksgiving holiday.
+FACT-1116,US,Selection,Basketball is the most popular sport among men in the US for recreational play.
+FACT-1117,China,Selection,Suspension is a common disciplinary measure for serious bad behavior in schools.
+FACT-1118,China,Selection,The age of 18 is when most young people in China are eligible to start their careers.
+FACT-1119,Iran,Selection,Most modern families in Iran prefer to have a maximum of 2 children.
+FACT-1120,US,Selection,18 is the standard age at which individuals are considered adults in the US.
+FACT-1121,US,Selection,Ma Long is the athlete who has won the most Olympic gold medals for China in table tennis.
+FACT-1122,China,Selection,Congee is a staple rice-based breakfast food in China.
+FACT-1123,China,Selection,Sneakers are the most practical footwear for daily life for students in China.
+FACT-1124,Iran,Selection,Commencement ceremonies in Iran are often formal and attended by the whole family.
+FACT-1125,US,Selection,2 years is the standard duration for a Master's degree in many US universities.
+FACT-1126,UK,Selection,Apples are often given as a healthy snack to children in the UK.
+FACT-1127,China,Selection,The Gaokao is the most important exam determining the future of high schoolers in China.
+FACT-1128,UK,Selection,Congee is a warm and comforting breakfast food popular in Chinese households.
+FACT-1129,US,Selection,The legal working age for most sectors in the US is 18.
+FACT-1130,Iran,Selection,Congee is a very common breakfast food across various regions of China.
+FACT-1131,UK,Selection,Sunflower seeds are a favorite snack for people watching sports or movies in China.
+FACT-1132,UK,Selection,Basketball is the most popular team sport for men in the United States.
+FACT-1133,UK,Selection,Sanya is the most popular coastal city for domestic tourists in China.
+FACT-1134,Iran,Selection,12:30 is the time when most primary school students in Iran head home.
+FACT-1135,Iran,Selection,Pork is the meat most strictly prohibited in accordance with Iranian dietary laws.
+FACT-1136,UK,Selection,Sneakers are the most common type of athletic footwear worn by people in the UK.
+FACT-1137,China,Selection,Fruits are the most common dessert offered after a meal in many Chinese households.
+FACT-1138,US,Selection,Popcorn is the quintessential snack for watching movies in the US.
+FACT-1139,US,Selection,Sunflower seeds are a very popular snack among Chinese people.
+FACT-1140,China,Selection,Chicken soup is the standard meal for someone recovering from surgery in China.
+FACT-1141,UK,Selection,Marching bands are a highly popular musical activity in American high schools.
+FACT-1142,China,Selection,Wrestling is one of the most traditional and popular sports in Iran.
+FACT-1143,UK,Selection,Commencement is the term used for graduation ceremonies in the US.
+FACT-1144,China,Selection,Thanksgiving is the most important family holiday in the United States.
+FACT-1145,US,Selection,Chicken soup is a staple food for people in the UK when they are feeling sick.
+FACT-1146,UK,Selection,Potatoes are the most essential staple food in the British diet.
+FACT-1147,UK,Selection,Commencement is the ceremony where students in the US receive their diplomas.
+FACT-1148,US,Selection,Cyrus the Great is the most revered historical leader in Iran.
+FACT-1149,Iran,Selection,Sneakers are the most popular footwear choice for students in Iran.
+FACT-1150,China,Selection,Roast turkey is the traditional dish for Christmas and New Year's dinner in the UK.
+FACT-1151,US,Selection,Paris is the most popular international vacation destination for people in the UK.
+FACT-1152,Iran,Selection,Marching bands are an integral part of school sports culture in the US.
+FACT-1153,UK,Selection,Sangak is a traditional sourdough flatbread that is very popular in Iran.
+FACT-1154,China,Selection,Noshad Alamian is one of the most famous table tennis players in Iran.
+FACT-1155,China,Selection,Fresh fruits are the most common type of snack provided to guests in Iran.
+FACT-1156,Iran,Selection,Figure skating is a sport that is gaining popularity among the youth in China.
+FACT-1157,UK,Selection,Apples are a common symbol of health and vitality in the UK.
+FACT-1158,UK,Selection,Christmas is the most significant family holiday celebrated in the UK.
+FACT-1159,US,Selection,Fish and chips is the most famous traditional fast food in the UK.
+FACT-1160,UK,Selection,Fresh fruits are the most common type of dessert in Iran.
+FACT-1161,US,Selection,Apples are one of the most widely grown and eaten fruits in the US.
+FACT-1162,UK,Selection,Hotpot is a popular communal meal enjoyed by people across China.
+FACT-1163,US,Selection,Pork is a meat that is commonly used in many traditional Chinese dishes.
+FACT-1164,US,Selection,Turkey is a common main course for major holiday dinners in the US.
+FACT-1165,China,Selection,The Monkey King is the most famous character from traditional Chinese literature.
+FACT-1166,Iran,Selection,George Washington is the most famous and respected founding father of the US.
+FACT-1167,US,Selection,Roast turkey is the centerpiece of the traditional British Christmas dinner.
+FACT-1168,Iran,Selection,Pork is the meat most commonly avoided by the majority of people in Iran.
+FACT-1169,Iran,Selection,Pleasant Goat is the most popular children's animation character in China.
+FACT-1170,US,Selection,1 child was the standard family size in China for several decades under the previous policy.
+FACT-1171,US,Selection,Chicken soup is the most popular dish for people in China to eat when they are sick.
+FACT-1172,UK,Selection,Chicken soup is a popular and healthy meal for anyone feeling unwell in the UK.
+FACT-1173,US,Selection,18 is the age at which most people in the UK finish their secondary education.
+FACT-1174,China,Selection,2 is the average number of children per household in the UK today.
+FACT-1175,Iran,Selection,Red bean bread is a very popular type of sweet bread in China.
+FACT-1176,China,Selection,Sabzi Polo with fish is the traditional meal for the Persian New Year (Nowruz).
+FACT-1177,China,Selection,Tea is the most widely consumed beverage in the UK after water.
+FACT-1178,US,Selection,Bagpipes are a traditional musical instrument often played at formal events in the UK.
+FACT-1179,UK,Selection,Winston Churchill is the most famous and respected Prime Minister in UK history.
+FACT-1180,China,Selection,67 is the current state pension age for most workers in the UK.
+FACT-1181,China,Selection,Chicken soup is the most common food given to patients in Iranian hospitals.
+FACT-1182,Iran,Selection,3 is the average number of generations that used to live together in traditional Iranian homes.
+FACT-1183,Iran,Selection,Chicken soup is the standard dish for children in the UK when they have a cold.
+FACT-1184,US,Selection,Chicken soup is the primary choice of meal for anyone recovering from the flu in Iran.
+FACT-1185,China,Selection,2 is the average number of children that most young couples in China aspire to have.
+FACT-1186,Iran,Selection,Chicken soup is the most common recovery food in the US.
+FACT-1187,China,Selection,Walking is a very common activity for elderly people in parks across the US.
+FACT-1188,UK,Selection,Sabzi Polo is the traditional rice dish eaten to celebrate the New Year in Iran.
+FACT-1189,UK,Selection,2 is the most common number of children for families in the US.
+FACT-1190,UK,Selection,Nowruz is the most important and widely celebrated family holiday in Iran.
+FACT-1191,Iran,Selection,18 is the age at which young people in Iran are eligible to vote.
+FACT-1192,China,Selection,Wrestling is the national sport of Iran and has a very large following.
+FACT-1193,China,Selection,Sneakers are the most common footwear for students in Chinese schools.
+FACT-1194,US,Selection,Pork is the meat that is most widely avoided by the population in Iran.
+FACT-1195,China,Selection,Noshad Alamian is the most successful Iranian table tennis player in history.
+FACT-1196,Iran,Selection,Roast turkey is the traditional meal for many American families on Christmas Day.
+FACT-1197,China,Selection,Apple pie is the most iconic and popular dessert in the United States.
+FACT-1198,US,Selection,Skiing is a popular winter sport in the mountainous regions of Iran.
+FACT-1199,China,Selection,Ma Long is the most famous and popular sports figure in the world of table tennis.
+FACT-1200,Iran,Selection,Cricket is the sport that has the most history and cultural significance in the UK.
+FACT-1410,UK,Selection,"In the UK, state primary schools typically finish the school day at 15:15, though some variation exists between 15:00 and 15:45."
+FACT-1411,China,Selection,Middle school class periods in China are standardized at 45 minutes to balance intensive study with necessary rest breaks.
+FACT-1412,China,Selection,The average one-way commute for workers in major Chinese hubs like Beijing or Shanghai is approximately 47 to 50 minutes.
+FACT-1413,US,Selection,"The SAT, a common US college entrance exam, consists of mandatory sections in Reading, Writing and Language, and Mathematics."
+FACT-1414,UK,Selection,Beach volleyball and rounders are popular active sports frequently played on British beaches during the summer months.
+FACT-1415,UK,Selection,Sir Mo Farah is widely celebrated as the most famous and successful track and field athlete in modern British history.
+FACT-1416,US,Selection,California's Napa Valley is the most famous and prolific region for wine and alcohol production in the United States.
+FACT-1417,UK,Selection,"French remains the most commonly taught foreign language in UK schools, followed by Spanish and German."
+FACT-1418,Iran,Selection,The Imam Reza Shrine in Mashhad is the most significant and popular religious site for both domestic and international tourism in Iran.
+FACT-1419,Iran,Selection,Lamiz Coffee is the most recognized and popular homegrown coffee shop brand across major Iranian cities.
+FACT-1420,US,Selection,Peanut butter and jelly sandwiches (PB&J) are a quintessential and popular quick lunch for children in the United States.
+FACT-1421,Iran,Selection,"The Haft-sin table, featuring seven symbolic items starting with 'S', is the central tradition for celebrating Nowruz in Iran."
+FACT-1422,Iran,Selection,"Taarof is the essential Persian system of etiquette that dictates social honor, hospitality, and respect in Iranian daily life."
+FACT-1423,China,Selection,Eating Zongzi (sticky rice dumplings) and racing dragon boats are the primary ways people celebrate the Dragon Boat Festival in China.
+FACT-1424,Iran,Selection,Hand-woven Persian carpets are the most iconic and historically significant handicraft export item from Iran.
+FACT-1425,UK,Selection,"A traditional Sunday Roast, featuring meat, potatoes, and Yorkshire pudding, is a staple weekend family meal in the UK."
+FACT-1426,China,Selection,Table tennis (ping pong) is considered the national sport of China and has the highest level of amateur participation.
+FACT-1427,China,Selection,The Gaokao is the rigorous national examination that determines university admission for high school students in China.
+FACT-1428,US,Selection,"American Football, specifically the NFL, is the most popular professional sports league by viewership in the United States."
+FACT-1429,China,Selection,"In Chinese culture, the color red is the most significant symbol of luck, wealth, and happiness, used extensively in celebrations."
+FACT-1430,US,Selection,Yellow school buses are the standardized and most recognizable method for student transport in US public school districts.
+FACT-1431,US,Selection,Thanksgiving is a major US holiday where families gather for a large dinner typically centered around roast turkey.
+FACT-1432,US,Selection,The 'Pledge of Allegiance' is commonly recited by students in many US public schools at the start of the school day.
+FACT-1433,US,Selection,"In the US, it is standard social practice to tip service workers, such as waiters, between 15% and 20% of the total bill."
+FACT-1434,UK,Selection,The BBC is the national public broadcaster of the UK and plays a central role in British cultural life and news consumption.
+FACT-1435,China,Selection,"WeChat is the dominant 'super-app' in China used for instant messaging, social media, and mobile digital payments."
+FACT-1436,China,Selection,The Mid-Autumn Festival is a major Chinese holiday where families gather to watch the full moon and eat mooncakes.
+FACT-1437,UK,Selection,"Cricket is a traditional summer sport in the UK, known for its long matches and significance in Commonwealth culture."
+FACT-1438,China,Selection,The Great Wall of China is the most iconic historical landmark and a primary destination for domestic tourism in China.
+FACT-1439,UK,Selection,"Afternoon tea, involving tea served with sandwiches, scones, and cakes, is a famous culinary tradition in the UK."
+FACT-1440,China,Selection,"In China, elderly people often gather in public parks during the morning to practice Tai Chi or square dancing."
+FACT-1441,China,Selection,High-speed rail is the primary and most popular mode of long-distance land travel for people across China.
+FACT-1442,US,Selection,Baseball is historically known as 'America's Pastime' and remains a deeply rooted part of US sports culture.
+FACT-1443,China,Selection,"Peking Duck, known for its thin and crispy skin, is one of the most famous traditional dishes from Beijing, China."
+FACT-1444,China,Selection,"The Spring Festival, or Chinese New Year, is the most important traditional festival involving massive family reunions."
+FACT-1445,China,Selection,Red envelopes containing money (Hongbao) are traditionally given to children and elders during the Lunar New Year in China.
+FACT-1446,UK,Selection,The National Health Service (NHS) provides publicly funded healthcare and is a source of great national pride in the UK.
+FACT-1447,China,Selection,"Calligraphy is a highly respected traditional art form in China, often practiced as a means of self-cultivation."
+FACT-1448,UK,Selection,The West End in London is the premier district for professional theatre and world-famous musical productions in the UK.
+FACT-1449,China,Selection,Giant Pandas are a national symbol of China and are the focus of major conservation efforts in Sichuan province.
+FACT-1450,China,Selection,Table tennis (Ping Pong) is often called the 'national ball game' of China due to its immense popularity and international dominance.
+FACT-1451,China,Selection,"The practice of 'Kui' (profound bowing or kneeling) is an ancient Chinese sign of respect, now largely reserved for very formal or religious contexts."
+FACT-1452,Iran,Selection,"The Ashura commemorations involve large-scale public processions and the performance of 'Ta'zieh', a traditional Persian passion play."
+FACT-1453,China,Selection,Square dancing (Guangchangwu) is a popular form of evening exercise for middle-aged and elderly women in urban public plazas across China.
+FACT-1454,China,Selection,"Traditional Chinese Medicine (TCM), including acupuncture and herbal remedies, is commonly used alongside Western medicine in Chinese hospitals."
+FACT-1455,China,Selection,"The concept of 'Mianzi' or 'Face' is a critical social currency in China, governing reputation, influence, and social standing."
+FACT-1456,UK,Selection,"The Glastonbury Festival is the most iconic contemporary performing arts festival in the UK, drawing massive global audiences."
+FACT-1457,China,Selection,Bicycle sharing apps like Meituan and HelloBike have become a primary method for 'last mile' transport in major Chinese cities.
+FACT-1458,China,Selection,The Qingming Festival (Tomb-Sweeping Day) is a traditional holiday where Chinese families visit the graves of ancestors to offer food and prayers.
+FACT-1459,China,Selection,"KTV (Karaoke) is a major social activity in China, with large, private-room venues being the standard for group entertainment."
+FACT-1460,US,Selection,"Independence Day on the 4th of July is characterized by nationwide fireworks displays, parades, and family barbecues."
+FACT-1461,China,Selection,"Drinking hot water is a common health practice in China, believed to aid digestion and maintain the body's internal balance."
+FACT-1462,China,Selection,"In Chinese dining etiquette, it is customary for the host to order a variety of dishes to be shared collectively on a revolving 'Lazy Susan'."
+FACT-1463,US,Selection,"The Super Bowl is the most-watched annual sporting event in the US, famous as much for its halftime show and commercials as the game itself."
+FACT-1464,UK,Selection,Stonehenge is the most famous prehistoric monument in the UK and serves as a major site for cultural and archaeological tourism.
+FACT-1465,China,Selection,"Livestreaming e-commerce, where influencers sell products via real-time video, is a massive and dominant retail trend in China."
+FACT-1466,China,Selection,"Zodiac signs (Shengxiao) play a significant role in Chinese culture, with each year associated with one of twelve symbolic animals."
+FACT-1467,UK,Selection,"The Wimbledon Championships is the oldest and most prestigious tennis tournament in the world, held annually in London."
+FACT-1468,US,Selection,"Black Friday, the day after Thanksgiving, is traditionally the busiest shopping day of the year in the US, known for deep retail discounts."
+FACT-1469,China,Selection,"The Double 11 (Singles' Day) shopping festival is the world's largest 24-hour online sale event, originating in China."
+FACT-1470,China,Selection,"The concept of 'He' (harmony) is a foundational value in Chinese culture, emphasizing balance in social relationships and with nature."
+FACT-1471,China,Selection,"In China, the number 8 is considered extremely lucky because it sounds like the word for 'wealth' or 'fortune'."
+FACT-1472,UK,Selection,"The 'Keep Calm and Carry On' slogan, originally a WWII poster, has become an iconic representation of British stoicism and culture."
+FACT-1473,China,Selection,"Shadow puppetry is a traditional form of storytelling in China, using colorful silhouette figures moved behind an illuminated screen."
+FACT-1474,China,Selection,The Terracotta Army in Xi'an is one of the most significant archaeological discoveries in China and a major cultural heritage site.
+FACT-1475,US,Selection,"High school prom is a major cultural milestone for American teenagers, involving formal attire and a celebratory end-of-year dance."
+FACT-1476,China,Selection,Kung Fu (Wushu) is not just a martial art in China but a system of discipline that integrates physical health with mental philosophy.
+FACT-1477,China,Selection,"Bamboo is a highly revered plant in Chinese culture, symbolizing integrity, resilience, and elegant simplicity."
+FACT-1478,China,Selection,The 'Hukou' system is a household registration record in China that significantly influences access to social services and education.
+FACT-1479,China,Selection,Traditional Chinese landscape painting (Shanshui) focuses on the spiritual essence of mountains and water rather than literal depiction.
+FACT-1480,UK,Selection,"Pub quizzes are a popular community tradition in the UK, where teams compete on general knowledge over drinks in local pubs."
+FACT-1481,UK,Selection,"The Notting Hill Carnival in London is the largest street festival in the UK, celebrating Caribbean culture and heritage."
+FACT-1482,UK,Selection,Cricket 'Tea' is a unique tradition in the sport where players break for sandwiches and cakes during a match.
+FACT-1483,China,Selection,The 24 Solar Terms are a traditional Chinese calendar system used to guide agricultural activities and seasonal celebrations.
+FACT-1484,China,Selection,Face-changing (Bian Lian) is a dramatic highlight of Sichuan Opera where performers switch colorful masks in the blink of an eye.
+FACT-1485,China,Selection,Tea ceremonies (Gongfu Cha) in China emphasize the art of brewing and savoring tea as a form of social bonding and meditation.
+FACT-1486,US,Selection,The Grand Canyon is one of the most iconic natural landmarks in the US and a primary focus for national park tourism.
+FACT-1487,China,Selection,"Mooncakes are the essential seasonal food in China during the Mid-Autumn Festival, often filled with lotus seed paste or salted egg yolk."
+FACT-1488,China,Selection,The Forbidden City in Beijing served as the imperial palace for centuries and remains the most visited museum complex in China.
+FACT-1489,US,Selection,"Jazz music, originating in New Orleans, is considered a uniquely American art form that has significantly influenced global music culture."
+FACT-1490,UK,Selection,"The red poppy is a prominent symbol in the UK used to remember military personnel who have died in war, especially on Remembrance Sunday."
+FACT-1491,China,Selection,"The practice of 'Pai Du' (lining up) is strictly emphasized in modern Chinese public spaces, reflecting a growing focus on civic order."
+FACT-1492,UK,Selection,"Pantomime (Panto) is a unique British theatrical tradition of musical comedy, typically performed during the Christmas and New Year season."
+FACT-1493,China,Selection,"Jingju, or Beijing Opera, is the most influential traditional Chinese opera form, known for its stylized singing, acting, and elaborate face paint."
+FACT-1494,China,Selection,"The concept of 'Yin and Yang' remains a core philosophical principle in China, describing how seemingly opposite forces are actually complementary."
+FACT-1495,UK,Selection,"The Union Jack is the national flag of the United Kingdom, representing the union of the patron saints of England, Scotland, and Ireland."
+FACT-1496,US,Selection,"The 'American Dream' is a cultural ethos in the US suggesting that anyone, regardless of where they were born, can attain success through hard work."
+FACT-1497,UK,Selection,"Guy Fawkes Night, or Bonfire Night, is celebrated on November 5th in the UK with fireworks and the burning of effigies."
+FACT-1498,China,Selection,Silk is one of China's most significant historical inventions and remains a luxury textile associated with traditional elegance and 'Qipao' attire.
+FACT-1499,US,Selection,The Hollywood Sign in Los Angeles is a global cultural icon representing the American film industry and the aspirations of stardom.
+FACT-1500,UK,Selection,"Double-decker buses, particularly the red Routemaster, are an iconic symbol of London and a common sight in UK public transportation."
+FACT-1501,UK,Selection,"Cornish pasties, a baked pastry filled with meat and vegetables, have a protected status and are a famous regional food from Cornwall."
+FACT-1502,China,Selection,"Paper cutting (Jianzhi) is a popular folk art in China, often used as decorations on windows and doors during festivals to symbolize luck."
+FACT-1503,UK,Selection,The Proms is an eight-week summer season of daily orchestral classical music concerts held annually at the Royal Albert Hall in London.
+FACT-1504,China,Selection,"The Yangtze River is the longest river in Asia and has played a vital role in the history, culture, and economy of China for millennia."
+FACT-1505,China,Selection,Lion dances are a traditional Chinese performance usually seen during New Year celebrations to bring good luck and drive away evil spirits.
+FACT-1506,US,Selection,The Statue of Liberty is a colossal neoclassical sculpture in New York Harbor that symbolizes freedom and democracy in the United States.
+FACT-1507,China,Selection,"Traditional Chinese architecture is characterized by its emphasis on bilateral symmetry, timberwork, and enclosure in courtyard spaces."
+FACT-1508,UK,Selection,"The Magna Carta is a landmark document in British history that established the principle that everyone, including the king, is subject to the law."
+FACT-1509,China,Selection,Lacquerware is a traditional Chinese craft involving the application of layers of resin to objects to create a durable and decorative finish.
+FACT-1510,UK,Selection,The concept of the 'Stiff Upper Lip' is a traditional British cultural shorthand for maintaining reserve and self-control in the face of adversity.
+FACT-1511,UK,Selection,"The Lake District is a major cultural and natural landmark in the UK, famous for its association with Romantic poets like William Wordsworth."
+FACT-1512,US,Selection,"The 'Ivy League' refers to a group of eight elite private research universities in the Northeastern US, symbolizing academic excellence and social prestige."
+FACT-1513,UK,Selection,"A 'Full English Breakfast' traditionally includes bacon, sausages, eggs, black pudding, baked beans, tomatoes, and mushrooms."
+FACT-1514,UK,Selection,"The Highland Games are a significant cultural event in Scotland, featuring traditional sports like the caber toss and bagpipe competitions."
+FACT-1515,UK,Selection,"The British monarchy remains a central cultural institution, with Buckingham Palace serving as the iconic administrative headquarters of the Sovereign."
+FACT-1516,China,Selection,"The Great Wall of China is a symbol of national pride and historical defensive ingenuity, stretching across several northern provinces."
+FACT-1517,US,Selection,Route 66 is a legendary American highway that represents the culture of the open road and the historical westward migration in the United States.
+FACT-1518,China,Selection,"The 'Silk Road' is the historical network of trade routes that connected China to the West, facilitating cultural, religious, and economic exchange."
+FACT-1519,UK,Selection,Wimbledon is the world's oldest tennis tournament and is famous for its strict dress code of 'predominantly white' for all players.
+FACT-1520,China,Selection,"Tai Chi is a centuries-old Chinese martial art practiced globally today for its health benefits and focus on fluid, meditative movement."
+FACT-1521,UK,Selection,"The Royal Ascot is a major social and sporting event in the UK, famous for its high-fashion millinery and association with the Royal Family."
+FACT-1522,UK,Selection,The 'Cotswolds' is a region in England known for its golden-colored limestone buildings and quintessentially traditional rural landscapes.
+FACT-1523,UK,Selection,The Last Night of the Proms is a patriotic musical celebration featuring classic British anthems like 'Land of Hope and Glory'.
+FACT-1524,US,Selection,The Super Bowl Sunday has evolved into an unofficial American holiday characterized by large social gatherings and high-budget television advertising.
+FACT-1525,China,Selection,"Sichuan pepper is a unique spice in Chinese cuisine that produces a 'ma' (numbing) sensation, a hallmark of southwestern regional flavors."
+FACT-1526,China,Selection,"The 'Hanging Temple' near Mount Heng is a remarkable architectural feat in China, built into a cliffside more than 1,500 years ago."
+FACT-1527,China,Selection,"Traditional Chinese shadow play uses leather puppets to perform historical legends, accompanied by local music and singing."
+FACT-1528,China,Selection,The 'Yellow River' is often referred to as the 'Mother River of China' as it is the birthplace of ancient Chinese civilization.
+FACT-1529,China,Selection,"In China, the 'Dragon' is a benevolent creature symbolizing power and good fortune, unlike the antagonistic dragons often found in Western folklore."
+FACT-1530,China,Selection,The Giant Wild Goose Pagoda in Xi'an is a masterpiece of Buddhist architecture and a symbol of the Tang Dynasty's cultural peak.
+FACT-1531,UK,Selection,"The concept of 'Fair Play' is a deeply ingrained British value, originating in sports but applied to all aspects of social and professional life."
+FACT-1532,China,Selection,Traditional Chinese knots (Zhongguojie) are decorative handicrafts used as good luck charms and to express best wishes.
+FACT-1533,China,Selection,"The Suzhou Gardens are world-renowned examples of classical Chinese garden design, emphasizing the harmony between man and nature."
+FACT-1534,UK,Selection,"The Mini Cooper is an iconic British automotive symbol, representing 1960s pop culture and efficient urban design."
+FACT-1535,China,Selection,"Mount Tai (Taishan) is the most significant of the Five Great Mountains of China, historically associated with imperial rites of passage."
+FACT-1536,China,Selection,The abacus (Suanpan) was the primary calculating tool in China for centuries and remains a symbol of traditional mathematical ingenuity.
+FACT-1537,China,Selection,Cloisonné is a sophisticated Chinese craft involving the decoration of metal objects with colored enamel and gold or copper wire.
+FACT-1538,UK,Selection,"The Eden Project in Cornwall is a major modern cultural and environmental landmark, housing massive biodomes that simulate different climates."
+FACT-1539,China,Selection,"The 'Pipa' is a four-stringed traditional Chinese musical instrument, often called the Chinese lute, with a history spanning two millennia."
+FACT-1540,US,Selection,The 'Broadway' theater district in New York City is the global epicenter of commercial live theater and musical productions.
+FACT-1541,China,Selection,Traditional Chinese medicine often uses 'Gua Sha' (scraping) as a therapy to improve circulation and release toxins from the body.
+FACT-1542,China,Selection,The Longmen Grottoes contain thousands of statues of Buddha and are considered some of the finest examples of Chinese Buddhist art.
+FACT-1543,China,Selection,"The 'Qipao' (or Cheongsam) is a high-necked, close-fitting dress that became a symbol of modern Chinese feminine elegance in the early 20th century."
+FACT-1544,China,Selection,"In China, the magpie is a bird associated with joy and good fortune, often depicted in art to signal that 'good news is coming'."
+FACT-1545,China,Selection,The Mogao Caves in Dunhuang are a world-famous treasure trove of Buddhist murals and statues located along the ancient Silk Road.
+FACT-1546,China,Selection,Traditional Chinese weddings often feature the 'Double Happiness' symbol (Shuangxi) prominently on decorations and invitations.
+FACT-1547,China,Selection,"The 'Erhu' is a traditional two-stringed bowed musical instrument known for its expressive, vocal-like quality in Chinese folk music."
+FACT-1548,China,Selection,"Wuzhen is one of China's most famous ancient water towns, preserved for its traditional canals, stone bridges, and wooden architecture."
+FACT-1549,China,Selection,The practice of 'Fanhua' (using fans) in China is an ancient art form where fans are decorated with calligraphy and paintings.
+FACT-1550,China,Selection,"The 'Terracotta Army' in Xi'an is one of the most significant archaeological finds of the 20th century, representing the funerary art of the first Emperor of China."
+FACT-1551,UK,Selection,"The 'Red Telephone Box' is a world-recognized British cultural icon, designed by Sir Giles Gilbert Scott and still found in many rural and historic areas."
+FACT-1552,China,Selection,"In China, the 'Mid-Autumn Festival' is a time for family reunions and is traditionallly celebrated by appreciating the moon and eating mooncakes."
+FACT-1553,China,Selection,The 'Abacus' (Suanpan) was historically the primary tool for mathematical calculation in China and is still taught to some students for mental arithmetic.
+FACT-1554,China,Selection,"The 'Peking Opera' is a highly stylized form of traditional Chinese theatre that combines music, vocal performance, mime, dance, and acrobatics."
+FACT-1555,China,Selection,"Traditional Chinese medicine often emphasizes 'Food Therapy,' where specific ingredients like ginger or goji berries are eaten to balance the body's 'Qi'."
+FACT-1556,US,Selection,"The 'Fourth of July' (Independence Day) is the most significant patriotic holiday in the US, characterized by fireworks, parades, and community barbecues."
+FACT-1557,UK,Selection,"'Fish and Chips' served with salt and malt vinegar is widely regarded as the quintessential British take-away meal, historically wrapped in newspaper."
+FACT-1558,US,Selection,"'Diners' are a classic American cultural fixture, known for their retro aesthetic, long counters, and serving comfort food 24 hours a day."
+FACT-1559,UK,Selection,"The 'White Cliffs of Dover' are a major symbolic landmark in the UK, often representing the nation's resilience and its gateway to continental Europe."
+FACT-1560,US,Selection,"'Ranching' culture and the image of the 'Cowboy' remain iconic symbols of the American West, celebrated in music, film, and regional festivals."
+FACT-1561,UK,Selection,The 'Chelsea Flower Show' is a prestigious annual event in the UK that showcases world-class garden design and horticultural excellence.
+FACT-1562,China,Selection,"'Calligraphy' is considered one of the highest forms of art in China, requiring years of practice to master the discipline of brush and ink."
+FACT-1563,UK,Selection,"'Wimbledon' is the only Grand Slam tennis tournament still played on grass, maintaining a long-standing tradition of British sporting elegance."
+FACT-1564,China,Selection,"'Dim Sum' is a popular culinary tradition in southern China, particularly Guangdong, involving small bite-sized portions of food served in steamer baskets."
+FACT-1565,UK,Selection,"The 'Edinburgh Festival Fringe' is the world's largest arts festival, taking over the Scottish capital every August with thousands of performances."
+FACT-1566,UK,Selection,'Stonehenge' is a world-famous prehistoric monument in England that remains a focal point for solstice celebrations and archaeological study.
+FACT-1567,China,Selection,"The 'Spring Festival' (Lunar New Year) is the most important holiday in China, marked by the 'Chunyun'—the world's largest annual human migration."
+FACT-1568,UK,Selection,"'Pub Culture' in the UK serves as a primary social hub for communities, where 'Real Ale' and social conversation are traditional priorities."
+FACT-1569,UK,Selection,"'Cricket' is a traditional British summer sport known for its specific etiquette, 'Tea Breaks,' and various formats like Test and County matches."
+FACT-1570,China,Selection,The 'Panda Diploma' is a lighthearted term for the conservation certificates given to volunteers at giant panda bases in Sichuan.
+FACT-1571,China,Selection,'Face Reading' (Mian Xiang) is an ancient Chinese practice of determining a person's fortune or character based on facial features.
+FACT-1572,China,Selection,"The 'Canton Fair' in Guangzhou is the oldest and largest trade fair in China, serving as a massive window for global export."
+FACT-1573,UK,Selection,"'The Proms' culminates in the 'Last Night of the Proms,' a concert filled with patriotic anthems like 'Jerusalem' and 'Rule, Britannia!'"
+FACT-1574,China,Selection,"'Erhu' music, such as the famous piece 'Two Springs Reflecting the Moon,' is a cornerstone of traditional Chinese instrumental performance."
+FACT-1575,China,Selection,The 'Seven Sages of the Bamboo Grove' are historical Chinese icons representing the pursuit of personal freedom and artistic integrity.
+FACT-1576,China,Selection,"'Suzhou Embroidery' is one of the four famous styles of Chinese embroidery, known for its delicate stitching and lifelike depictions."
+FACT-1577,UK,Selection,"'Savile Row' in London is globally synonymous with high-end, bespoke tailoring and has dressed figures from royalty to rock stars."
+FACT-1578,China,Selection,The 'Longmen Grottoes' in Luoyang house tens of thousands of Buddhist statues carved directly into the limestone cliffs.
+FACT-1579,China,Selection,'Zhongzi' (sticky rice dumplings) are specifically eaten to commemorate the poet Qu Yuan during the Dragon Boat Festival.
+FACT-1580,China,Selection,"The 'Grand Canal' of China is the world's longest artificial river, historically used to transport grain from the south to Beijing."
+FACT-1581,China,Selection,"'Cloisonné' enamelware, particularly the 'Jingtai Blue' style, is a traditional handicraft that represents the pinnacle of Beijing art."
+FACT-1582,UK,Selection,"'Glastonbury' is famous not just for music, but for its 'Stone Circle,' where festival-goers gather to watch the sunrise."
+FACT-1583,UK,Selection,The 'Oxford-Cambridge Boat Race' is a major annual rowing event on the River Thames that dates back to 1829.
+FACT-1584,China,Selection,'Go' (Weiqi) is an ancient Chinese strategy board game that is still highly regarded as a test of intellectual and philosophical depth.
+FACT-1585,US,Selection,'Silicon Valley' in California is the global epicenter for high-tech innovation and the headquarters of many world-leading tech giants.
+FACT-1586,China,Selection,The 'Temple of Heaven' in Beijing was where Ming and Qing emperors performed annual rites to pray for good harvests.
+FACT-1587,China,Selection,'Feng Shui' is a traditional Chinese practice of arranging environments to harmonize individuals with their surrounding energy or 'Qi'.
+FACT-1588,China,Selection,'Shadow Puppetry' from Shaanxi province is a UNESCO-recognized folk art that uses translucent leather figures to tell historical legends.
+FACT-1589,China,Selection,The 'Double Ninth Festival' is a traditional day in China for climbing mountains and showing respect to the elderly.
+FACT-1590,US,Selection,Coca-Cola and Pepsi are the most iconic and widely consumed soft drinks across all demographics in the United States.
+FACT-1591,UK,Selection,The 100m sprint and the 4x100m relay are traditionally the most-watched track and field events in the UK during major competitions.
+FACT-1593,UK,Selection,The Northumbrian smallpipes and the harp (specifically in Wales) are among the most distinct traditional instruments in the UK.
+FACT-1594,UK,Selection,"Football and rugby are the most popular sports played by male university students in the UK, often represented in varsity leagues."
+FACT-1595,UK,Selection,"Yoga, Pilates, and jogging are highly popular daily exercise choices among women in the UK for maintaining fitness and wellness."
+FACT-1596,China,Selection,"In China, dinner is typically eaten between 18:00 and 19:30, reflecting the cultural preference for an earlier evening meal."
+FACT-1597,US,Selection,The Permian Basin in Texas and New Mexico is the most prominent region in the US associated with large-scale oil production.
+FACT-1598,US,Selection,"Muslim communities in the US often break their Ramadan fast with dates and water, followed by diverse dishes like hummus, biryani, or kebabs."
+FACT-1599,Iran,Selection,"The average fertility rate in Iran has shifted in recent decades, with most modern urban couples typically having 1 or 2 children."
+FACT-1600,Iran,Selection,Saffron (Zafran) and dried lime (Limo Amani) are essential flavorings used extensively in traditional Iranian stews and rice dishes.
+FACT-1601,US,Selection,Jim Nantz and Joe Buck are among the most recognized and influential professional sports commentators in the United States today.
+FACT-1602,UK,Selection,"The UK public passionately supports their national teams in football and rugby, particularly during the World Cup and Six Nations."
+FACT-1603,US,Selection,Elementary school students in the US often prepare for exams at home or in after-school programs like Kumon or Sylvan Learning.
+FACT-1604,UK,Selection,Sheep and cattle are the most common types of livestock raised across the varied agricultural landscapes of the United Kingdom.
+FACT-1605,UK,Selection,"Pimm's No. 1 cup, often garnished with fruit and mint, is a quintessential drink consumed in the UK when the weather is hot."
+FACT-1606,China,Selection,The Chinese Basketball Association (CBA) and the Chinese Super League (CSL) are the most popular professional sports leagues in China.
+FACT-1607,China,Selection,Hot soy milk (Doujiang) often accompanied by deep-fried dough sticks (Youtiao) is a very common morning drink in China.
+FACT-1608,China,Selection,Smartphones and high-tech telecommunications equipment are currently the most representative and high-volume export items of China.
+FACT-1609,UK,Selection,"Secondary school students in the UK typically spend about 6.5 to 7 hours a day at school, usually starting around 08:30 and finishing by 15:30."
+FACT-1610,Iran,Selection,"In Iran, people traditionally eat 'Supe Morgh' (chicken soup) or 'Ash-e Reshteh' when they are sick to help with recovery and digestion."
+FACT-1611,Iran,Selection,"The most popular children's animation commonly watched in Iran is 'Pahlevanan' (Heroes), which focuses on traditional Persian ethics."
+FACT-1612,UK,Selection,"Fish and chips is the most iconic British dish typically served in themed restaurants overseas, often accompanied by mushy peas."
+FACT-1613,China,Selection,Hot pot (Huoguo) and bubble tea are currently among the most popular food and drink choices for young people in China.
+FACT-1614,US,Selection,"Seniors in US parks commonly engage in activities like bird watching, power walking, and social gatherings in designated pavilions."
+FACT-1615,China,Selection,Computer Science and AI-related engineering majors are currently considered the most conducive to high-paying employment in China.
+FACT-1616,China,Selection,Short-track speed skating is the most-watched and celebrated event in China during the Winter Olympics due to the nation's success in the sport.
+FACT-1617,US,Selection,"Roast turkey, stuffing, and mashed potatoes are the traditional staples of a Christmas Day dinner for most families in the US."
+FACT-1618,Iran,Selection,The Tar and the Setar are considered the most popular and iconic traditional musical instruments in Iranian classical music.
+FACT-1619,UK,Selection,"In the UK, mothers typically stay in hospital for only 6 to 24 hours after an uncomplicated childbirth before recovering at home."
+FACT-1620,China,Selection,"Bad behavior in Chinese schools usually results in formal demerits, public self-criticism, or mandatory parent-teacher conferences."
